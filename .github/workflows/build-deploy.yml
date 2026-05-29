@@ -25,6 +25,9 @@ jobs:
       - name: Setup Pandoc
         uses: r-lib/actions/setup-pandoc@v2
 
+      - name: Setup TinyTeX (LaTeX para o PDF)
+        uses: r-lib/actions/setup-tinytex@v2
+
       - name: Cache R packages
         uses: actions/cache@v4
         with:
@@ -33,7 +36,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages(c("bookdown", "rmarkdown"))
+          install.packages(c("bookdown", "rmarkdown", "tinytex"))
         shell: Rscript {0}
 
       - name: Render book (HTML + PDF + EPUB)
