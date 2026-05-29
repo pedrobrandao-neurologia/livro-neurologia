@@ -1,0 +1,21 @@
+# Exame dos reflexos {#reflexos}
+
+O **exame dos reflexos** testa a integridade do arco reflexo segmentar e a
+modulação suprassegmentar. Hiperreflexia com reflexos patológicos indica lesão do
+neurônio motor superior; a arreflexia sugere interrupção do arco — ver o
+[exame da motricidade](#exame-motor).
+
+## Reflexos profundos {#profundos}
+
+São graduados de 0 (ausente) a 4+ (clônus). A **assimetria** tem maior valor
+localizatório que a intensidade absoluta [@campbell2020].
+
+## Sinal de Babinski {#babinski}
+
+A extensão do hálux ao estímulo plantar lateral é o marcador clínico clássico de
+disfunção do trato corticospinal.
+
+::: {.warn}
+**Atenção.** Respostas plantares podem ser ambíguas; confirme com sucedâneos
+(Chaddock, Oppenheim) antes de concluir.
+:::
