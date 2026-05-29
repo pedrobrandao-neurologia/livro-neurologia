@@ -1,0 +1,7 @@
+_book/
+_bookdown_files/
+*.rds
+*.log
+.Rproj.user
+.Rhistory
+.RData
