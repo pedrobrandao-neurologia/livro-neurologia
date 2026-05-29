@@ -48,11 +48,14 @@ Para paresias sutis, empregam-se as manobras de Mingazzini e de Barré (membros
 inferiores) e a dos braços estendidos com pronação (membros superiores), úteis na
 detecção de déficit piramidal leve.
 
-<!-- Exemplo de figura (descomente e coloque o arquivo em figuras/):
-```{r fig-mingazzini, echo=FALSE, fig.cap="Manobra de Mingazzini.", out.width="70%"}
+Para inserir uma figura, coloque o arquivo em `figuras/` e use um *chunk* como o
+exemplo abaixo (substitua o `r` por `{r}` para ativá-lo):
+
+```r
+# ```{r fig-mingazzini, fig.cap="Manobra de Mingazzini.", out.width="70%"}
 knitr::include_graphics("figuras/mingazzini.png")
+# ```
 ```
--->
 
 ## Ver também {-}
 
