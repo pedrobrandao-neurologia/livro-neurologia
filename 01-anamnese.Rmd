@@ -1,41 +1,119 @@
-# Anamnese e roteiro do exame {#anamnese}
+# (PART) Parte I — Semiologia do Sistema Nervoso {-}
 
-O exame neurológico é uma extensão raciocinada da anamnese: cada manobra
-responde a uma hipótese topográfica gerada pela história clínica.
+# Anamnese {#anamnese}
 
-## Objetivos do exame {#objetivos}
+*Pedro Renato de Paula Brandão · Ana Cláudia Pires Carvalho · Jorge Alberto Martins Pentiado Junior · Fernando Guilhon Henriques (in memoriam)*
 
-A semiologia neurológica organiza-se em torno de duas perguntas sequenciais:
-**onde está a lesão** (diagnóstico topográfico) e **qual é a sua natureza**
-(diagnóstico etiológico). A história clínica define o perfil temporal — agudo,
-subagudo, crônico ou recidivante — e orienta o exame dirigido [@campbell2020].
+A coleta do relato da doença e de toda a evolução até a data da consulta médica é
+o que se conhece como **História da Doença Atual** (abreviada como HDA), e assim
+se inicia a Anamnese.
+
+A Anamnese é a parte mais importante da avaliação clínica e representa, quando
+bem-feita, seguramente, 80% das possibilidades de se fazer um diagnóstico correto.
+É imprescindível, portanto, que aqueles que se dedicam principalmente às
+especialidades clínicas procurem adestrar-se diariamente na colheita da história
+da doença até tornarem-se exímios realizadores da anamnese.
+
+Para tanto, algumas qualidades são indispensáveis: atenção, interesse,
+perspicácia, paciência e cultura. Estas virtudes devem ser cultivadas ao longo da
+prática diária, pois é exatamente assim que melhor se aprende Medicina. Além
+disso, é ao lado do doente, à beira do leito, que o médico se diferencia na sua
+arte.
+
+Após a identificação do paciente, inicia-se a anamnese, que costuma
+desenvolver-se por um roteiro que inclui as seguintes questões clássicas: o que
+sente? desde quando? como tem evoluído a doença? a que tratamento tem sido
+submetido?
+
+Quando perguntamos ao paciente o que ele sente, devemos permitir que ele discorra
+livremente sobre seus sintomas, sem interrompê-lo (**anamnese passiva**). Esta
+regra só deve ser contrariada se o paciente for prolixo e se perder em relatos sem
+importância médica (**anamnese ativa**). Essa interferência deve ser feita com
+delicadeza, a fim de que o paciente não se iniba na continuação da história
+médica. Os sintomas referidos, além de minuciosamente analisados quanto às suas
+características e significados, devem ser anotados cronologicamente, para se formar
+uma ideia da evolução da doença.
+
+No caso de cefaleia, por exemplo, deve-se averiguar o tipo de dor (“latejante”,
+“constritiva”, em “pontada”, em “choque” etc.), a intensidade, a localização, a
+irradiação, a periodicidade, os fatores que a exacerbam ou aliviam e os sintomas
+concomitantes.
+
+É muito importante, ainda, saber como se iniciou o problema clínico: se de modo
+súbito, rápido ou insidioso, observando-se que as doenças vasculares são em geral
+abruptas; as doenças agudas infecciosas são comumente rápidas (subagudas); e as
+doenças degenerativas são crônicas.
+
+A evolução das doenças degenerativas é habitualmente progressiva; as doenças
+inflamatórias costumam ser subagudas e têm curso ondulante, assim como as doenças
+desmielinizantes do sistema nervoso (curso remitente-recorrente ou em
+surto-remissão); as doenças infecciosas agudas são de evolução rápida e duração
+breve, embora algumas delas possam tornar-se crônicas.
+
+O conhecimento da terapêutica utilizada pode trazer subsídios para o entendimento
+da etiologia e do mecanismo da doença e para ajudar na proposta de tratamento que
+deverá ser apresentada ao final da consulta médica.
+
+A anamnese é completada com a **História Patológica Pregressa** (HPP), que se
+refere a doenças sofridas anteriormente pelo paciente, desde o seu nascimento; e
+com a **História Fisiológica e Social**, que visa apurar principalmente o
+desenvolvimento neuropsicomotor, a fisiologia e a existência de hábitos ou vícios
+na história pregressa do paciente.
+
+Outro passo importante é a **Revisão de Sistemas**, que descreve a relação
+(presença ou ausência) entre a queixa do paciente e outros sintomas/sinais
+presentes em outros sistemas orgânicos, bem como a possibilidade de
+caracterizarmos melhor a própria queixa. Imagine um paciente que relatou a
+presença de vertigem: seria importante sabermos se houve alterações de audição,
+plenitude auricular, distúrbio de marcha, náuseas e/ou vômitos, bem como a
+ocorrência de febre.
+
+Finalmente, encerra-se a Anamnese com a **História Familiar**, na qual o paciente
+irá se referir à existência de doenças familiares ou hereditárias, principalmente
+semelhantes à sua, sofridas particularmente por parentes próximos (pais, irmãos,
+filhos). No histórico familiar, muitas vezes já se pode reconhecer um padrão de
+herança mendeliana — autossômica dominante ou recessiva, por exemplo.
+
+Um aspecto realmente único na neurologia é a ênfase dada ao **diagnóstico
+topográfico** e ao **diagnóstico fenomenológico**. Um paciente com um pé caído,
+por exemplo, pode ter uma lesão no cordão anterior da medula espinhal, nas raízes
+nervosas lombares ou no nervo periférico. O exame neurológico clássico, formal,
+bem executado, dá muitas informações que ajudam a localizar a lesão ofensora à
+função neurológica. De modo similar, um neurologista bem formado deve ser capaz de
+reconhecer fenômenos como crises de lobo temporal, com automatismos manuais e
+orais, assim como estereotipias típicas de casos de autismo e tremores de repouso
+característicos da doença de Parkinson.
+
+A anamnese é capaz de nos fornecer as hipóteses a respeito das topografias,
+fenomenologias e possíveis etiologias. O exame físico, então, tem seu papel em
+confirmar ou refutar essas hipóteses previamente estabelecidas. O diagnóstico
+diferencial das etiologias é, portanto, um *ranking* ordenado de probabilidades de
+possíveis causas. Um neurologista experiente chega rapidamente a uma lista de
+causas responsáveis pelos sinais e sintomas, considerando sempre primeiro as
+causas mais comuns, mas listando também possibilidades menos frequentes.
 
 ::: {.note}
-**Pontos-chave**
-
-- O perfil temporal é o principal preditor da etiologia.
-- O exame neurológico é teste de hipóteses, não um *checklist* cego.
-- Localize antes de nomear a doença.
+**Aforismo clínico.** "Apresentações raras de doenças comuns são mais frequentes
+do que apresentações comuns de doenças raras." O princípio da parcimônia deve
+sempre ser usado quando se geram listas de diagnósticos diferenciais. Mais
+importante do que orgulhosamente colocar o diagnóstico correto no topo da lista é
+garantir que não se está deixando de pensar em alguma das possibilidades mais
+remotas.
 :::
 
-## Roteiro sistematizado {#roteiro}
+Um dos objetivos deste livro é dar ferramentas práticas e ensinar a prática do
+**reconhecimento de padrões**, apresentando a abordagem típica a problemas comuns
+no dia a dia do clínico.
 
-Recomenda-se uma sequência fixa para reduzir omissões: estado mental, pares
-cranianos, sistema motor, reflexos, sensibilidade, coordenação e marcha. A ordem
-pode ser adaptada à queixa principal.
+## Referências {-}
 
-Table: (#tab:dominios) Domínios do exame e correlato anatômico.
-
-| Domínio          | Estrutura avaliada      | Exemplo de achado        |
-|------------------|-------------------------|--------------------------|
-| Estado mental    | Córtex associativo      | Afasia, negligência      |
-| Pares cranianos  | Tronco encefálico       | Diplopia, disfagia       |
-| Motor            | Via piramidal / NMI     | Paresia, fasciculações   |
-| Coordenação      | Cerebelo                | Dismetria, ataxia        |
-
-::: {.warn}
-**Sinais de alarme.** Cefaleia em trovoada, déficit focal súbito, rebaixamento
-do nível de consciência e febre com rigidez de nuca exigem investigação imediata.
-:::
-
-O detalhamento do exame motor é apresentado no Capítulo \@ref(exame-motor).
+- Moore FG, Chalk C. The essential neurologic examination: what should medical
+  students be taught? *Neurology.* 2009;72(23):2020-2023.
+  doi:10.1212/WNL.0b013e3181a92be6
+- Wiles CM. Introducing neurological examination for medical undergraduates — how
+  I do it. *Pract Neurol.* 2013;13(1):49-50. doi:10.1136/practneurol-2012-000282
+- Nicholl DJ, Appleton JP. Clinical neurology: why this still matters in the 21st
+  century. *J Neurol Neurosurg Psychiatry.* 2015;86(2):229-233.
+  doi:10.1136/jnnp-2013-306881
+- Lim EC, Seet RC. Demystifying neurology: preventing 'neurophobia' among medical
+  students. *Nat Clin Pract Neurol.* 2008;4(8):462-463. doi:10.1038/ncpneuro0849

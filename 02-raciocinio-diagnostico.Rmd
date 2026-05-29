@@ -1,0 +1,457 @@
+# Raciocínio diagnóstico na prática neurológica {#raciocinio-diagnostico}
+
+*Pedro Renato de Paula Brandão · Jorge Alberto Martins Pentiado Jr.*
+
+## O processo diagnóstico médico {#processo-diagnostico}
+
+A palavra "diagnóstico" deriva do grego *diagnostikós*, que significa a
+qualificação atribuída por um médico a um estado patológico ou fisiológico. O
+diagnóstico de condições patológicas é parte central da prática clínica
+cotidiana, como no caso de firmar um diagnóstico nosológico, identificando, por
+exemplo, um caso de meningite bacteriana aguda causada por *Streptococcus
+pneumoniae*. Por outro lado, o diagnóstico de condições fisiológicas, como a
+avaliação de aptidão para atividades laborais ou esportivas, exige a exclusão de
+patologias. Nesse contexto, realiza-se uma avaliação minuciosa dos sistemas mais
+relevantes para essas atividades e a exclusão de doenças específicas, como
+arritmias e cardiopatias estruturais.
+
+No processo diagnóstico, três formas principais de raciocínio são empregadas:
+
+a) indução;
+b) dedução;
+c) abdução.
+
+## Indução no raciocínio diagnóstico {#inducao}
+
+O raciocínio indutivo parte de casos específicos para formular generalizações. Um
+exemplo histórico ilustrativo foi a investigação inicial da epidemia de AIDS
+(Síndrome da Imunodeficiência Adquirida) nos Estados Unidos. Naquela época, pouco
+se sabia sobre a nova doença: qual era o agente etiológico (viral, bacteriano ou
+fúngico?), qual o modo de transmissão (sexual, aérea, por contato?) e quais
+seriam as opções de tratamento ou de prevenção primária.
+
+Dado o ineditismo do quadro, a descrição detalhada de casos individuais,
+compilados em relatos e séries de casos, desempenhou papel crucial na
+caracterização clínica da doença (sinais, sintomas e evolução) e na construção
+inicial, ainda que rudimentar, da história natural da patologia. Esses relatos
+permitiram a generalização de achados importantes para a compreensão do fenômeno.
+Contudo, o uso da indução tem suas limitações, como o risco de conclusões
+equivocadas por se basear em amostras pouco representativas. Um exemplo desse erro
+foi a suposição inicial de que a AIDS seria uma condição exclusiva de homens
+homossexuais, avaliação que se mostrou incorreta à medida que mais dados foram
+obtidos.
+
+A indução é frequentemente utilizada por estudantes de medicina nos primeiros
+anos de formação, dada sua limitada experiência clínica e seu conhecimento técnico
+ainda em desenvolvimento. Apesar de suas limitações, essa forma de raciocínio pode
+ser fundamental em situações de incerteza, especialmente no estudo de doenças
+emergentes ou desconhecidas.
+
+## A aplicação do raciocínio dedutivo no diagnóstico médico {#deducao}
+
+No raciocínio dedutivo, parte-se de conhecimentos gerais, amplamente embasados por
+evidências científicas, para aplicá-los a casos específicos. Esse método é
+exemplificado no caso clínico a seguir.
+
+> Uma paciente de 24 anos, engenheira civil, foi levada ao pronto-atendimento com
+> início súbito de agitação psicomotora havia 24 horas, acompanhada de
+> alucinações visuais (vultos e animais), seguida de uma crise epiléptica
+> tônico-clônica generalizada com duração de 2 minutos, com liberação esfincteriana
+> e sonolência pós-ictal de 30 minutos. Após a recuperação, foi notada fraqueza no
+> lado esquerdo do corpo (hemiparesia). A história clínica revelou não haver febre,
+> uso de medicações ou traumatismo craniano, mas destacou episódios de eritema
+> malar prolongado após exposição solar, cansaço inexplicado e artralgias.
+
+O exame clínico evidenciou sinais sugestivos de uma condição sistêmica: eritema
+malar em "asa de borboleta", *livedo reticular*, alopecia e artrite nas falanges
+das mãos. O exame neurológico revelou desorientação no tempo e no espaço, agitação
+psicomotora, hemiparesia esquerda incompleta (de predomínio braquiofacial),
+reflexos exacerbados no hemicorpo esquerdo, sinais de irritação meníngea (rigidez
+de nuca e sinal de Kernig), reflexo plantar em extensão à esquerda e paratonias
+bilaterais.
+
+Exames complementares apontaram: sinais de vasculite do sistema nervoso central
+(na angio-RM), meningite asséptica linfocitária (líquor), anemia hemolítica,
+leucopenia, trombocitopenia, proteinúria intensa, fator antinuclear positivo em
+altos títulos e positividade para anticorpos anti-DNA nativo, anti-Sm, anti-P e
+anticoagulante lúpico, entre outros.
+
+O diagnóstico de **Lúpus Eritematoso Sistêmico (LES)** com vasculite do sistema
+nervoso central foi estabelecido a partir de uma abordagem dedutiva. Inicialmente,
+identificaram-se síndromes diagnósticas (meningite asséptica, crises epilépticas
+secundárias, hemiparesia) baseadas na anamnese e no exame físico. Posteriormente,
+os achados foram correlacionados com os critérios diagnósticos do LES, amplamente
+validados, que incluem manifestações clínicas e laboratoriais características.
+
+Os critérios diagnósticos, como os utilizados classicamente para o LES, são
+essenciais por diversas razões. Primeiramente, a gravidade da doença justifica a
+necessidade de critérios bem estabelecidos, uma vez que é uma condição
+potencialmente letal se não tratada adequadamente. Além disso, o risco associado
+ao tratamento, como os efeitos adversos severos de terapias imunossupressoras,
+exige alta precisão diagnóstica para minimizar danos ao paciente. Por fim, os
+critérios diagnósticos ajudam a reduzir erros, pois sua sensibilidade e
+especificidade diminuem a ocorrência de falsos-positivos e falsos-negativos,
+otimizando a relação risco-benefício do manejo.
+
+O raciocínio dedutivo, nesse contexto, permite aplicar o conhecimento acumulado na
+literatura médica a casos individuais, fundamentando decisões diagnósticas e
+terapêuticas de maneira sistemática e baseada em evidências.
+
+## Raciocínio diagnóstico por abdução {#abducao}
+
+O raciocínio por abdução, assim como o movimento que dá origem ao termo, envolve a
+formulação de hipóteses que se afastam do conhecimento vigente, criando bases para
+descobertas inovadoras. Esse processo foi essencial, por exemplo, também no
+contexto da epidemia de AIDS. Inicialmente, formulou-se a hipótese de que a doença
+era transmissível e causada por um agente viral. Posteriormente, por meio de
+pesquisas científicas, identificou-se o HIV como o agente etiológico da síndrome.
+
+No entanto, os métodos de raciocínio (indução, dedução e abdução) raramente são
+empregados de forma isolada. No caso da descoberta do HIV, o raciocínio por
+abdução baseou-se em conhecimentos prévios sobre retrovírus e suas manifestações,
+permitindo a formulação de hipóteses que orientaram a investigação científica e a
+identificação dos modos de transmissão da doença. Em suma, o raciocínio
+diagnóstico em medicina é dinâmico, mesclando diferentes métodos para interpretar
+sinais, sintomas e exames com base na experiência e no conhecimento acumulado.
+
+## Dinâmica do raciocínio clínico em neurologia {#dinamica-raciocinio}
+
+A dinâmica do raciocínio diagnóstico torna-se particularmente evidente na
+neurologia, área que tradicionalmente emprega os processos de raciocínio descritos
+para a formulação de diagnósticos **sindrômicos**, **topográficos** e
+**etiológicos**.
+
+Para isso, é importante retornar a alguns conceitos básicos semiológicos. Um
+**sinal** é definido como uma manifestação objetiva identificada pelo examinador,
+podendo ser constatada por meio de exame físico (por exemplo, paresia ou
+hiperreflexia) ou de exames complementares (como o "sinal do beija-flor" observado
+na ressonância magnética, associado à atrofia tectal mesencefálica na paralisia
+supranuclear progressiva). Em contraste, um **sintoma** refere-se a uma sensação
+subjetiva relatada pelo paciente, como vertigem ou parestesias. Já o conceito de
+**síndrome** abrange um conjunto de sinais e sintomas que podem ter diferentes
+etiologias. Na prática clínica, os diagnósticos sindrômicos são usualmente
+formulados durante a anamnese, servindo de base para a coleta de dados subsequentes
+e para a realização do exame físico.
+
+Por exemplo, considere um paciente de 20 anos apresentando cefaleia holocraniana,
+vômitos em jato e febre. Durante a anamnese, podem ser formulados diagnósticos
+sindrômicos como síndrome febril, síndrome infecciosa, síndrome álgica e síndrome
+de hipertensão intracraniana. O exame físico é essencial para confirmar ou refinar
+essas hipóteses, como no caso da confirmação da síndrome de hipertensão
+intracraniana por meio da identificação de papiledema bilateral ou de paralisia do
+abducente bilateral. Além disso, o exame físico pode revelar novos diagnósticos
+sindrômicos, como a síndrome de irritação meníngea, caracterizada por sinais como
+rigidez de nuca e o sinal de Kernig.
+
+A identificação da topografia do processo patológico — como meninges ou espaço
+subaracnóideo, no exemplo citado — contribui para a redução do espectro de
+diagnósticos diferenciais. Determinadas patologias possuem afinidade por áreas
+específicas do sistema nervoso, e os achados do exame físico frequentemente
+auxiliam na determinação da localização anatômica da lesão, aumentando a
+objetividade do processo diagnóstico. Contudo, o diagnóstico topográfico, embora
+fundamental, não é conclusivo. Ele deve ser correlacionado com informações
+clínicas e temporais, como a evolução subaguda típica de doenças inflamatórias,
+para maior precisão.
+
+Após estabelecer o diagnóstico topográfico, a investigação complementar visa
+aprofundar a compreensão do processo patológico e determinar sua etiologia. No
+caso descrito, a análise do líquido cefalorraquidiano (LCR) foi determinante para
+confirmar o diagnóstico de meningite bacteriana, evidenciando pleocitose
+neutrofílica, hipoglicorraquia e o crescimento de *Streptococcus pneumoniae* em
+cultura. Dessa forma, o raciocínio diagnóstico na neurologia integra de forma
+sistemática a anamnese, o exame físico e os exames complementares, utilizando
+diferentes abordagens de maneira articulada para alcançar um diagnóstico preciso e
+direcionar o manejo clínico de forma adequada.
+
+## Sobre a Medicina Baseada em Evidências (MBE) {#mbe}
+
+Após estabelecer o diagnóstico etiológico, o próximo passo é definir o tratamento
+adequado, orientado pelos princípios da **Medicina Baseada em Evidências (MBE)**. A
+MBE pode ser entendida como a aplicação das melhores evidências científicas
+disponíveis, aliada à experiência e ao conhecimento técnico do profissional, para
+a tomada de decisões clínicas voltadas às necessidades específicas de cada
+paciente. Além disso, a MBE envolve uma busca contínua por novos conhecimentos que
+possam solucionar questões relacionadas ao diagnóstico, ao prognóstico e à
+terapêutica.
+
+A adoção da MBE na prática médica busca reduzir incertezas e dúvidas, muito comuns
+no cotidiano clínico, e certamente auxilia a minimizar frustrações para médicos e
+pacientes. Para isso, é essencial que o profissional tenha conhecimentos básicos
+de epidemiologia e bioestatística, ferramentas indispensáveis para a análise
+crítica da literatura científica.
+
+De acordo com Bensenor e Lotufo (2005), o processo de MBE pode ser estruturado em
+cinco etapas:
+
+1. transformar as informações sobre o paciente em uma pergunta clínica bem
+   definida;
+2. buscar as melhores evidências disponíveis na literatura;
+3. criticar as evidências científicas utilizando conhecimentos de epidemiologia e
+   bioestatística;
+4. integrar essas evidências ao conhecimento técnico e às características
+   individuais do paciente;
+5. avaliar continuamente os passos realizados, revisitando-os quando necessário.
+
+No primeiro passo, a formulação da pergunta clínica é crucial, sendo necessário
+definir se o objetivo é obter informações sobre prevenção, diagnóstico, tratamento
+ou prognóstico. Um método amplamente utilizado para estruturar essa pergunta é o
+acrônimo **PICO**, que se refere a Paciente ou População (P), Intervenção (I),
+Comparação (C) e *Outcome* ou Desfecho (O). Por exemplo, no caso de um paciente
+com meningite bacteriana aguda, a pergunta poderia ser: "Qual o benefício de
+adicionar corticosteroides ao tratamento padrão com antibióticos, em comparação
+com o uso de antibióticos isolados?".
+
+Após formular a pergunta, o segundo passo consiste em buscar as evidências em bases
+de dados confiáveis, como MEDLINE, SCOPUS, SciELO, LILACS e Cochrane, entre
+outras. Bases de dados primárias contêm estudos originais, que exigem capacidade de
+análise crítica direta dos estudos pelo leitor, enquanto bases secundárias
+oferecem sínteses e revisões sistemáticas que facilitam a interpretação dos dados.
+
+As etapas de análise crítica e seleção de evidências (terceira e quarta etapas)
+são essenciais para identificar estudos com menor probabilidade de viés e maior
+robustez metodológica. É necessário compreender os diferentes desenhos de estudo e
+suas respectivas medidas de análise.
+
+Diferentes categorias de estudos são utilizadas para responder a questões
+diagnósticas, terapêuticas, prognósticas e preventivas, cada qual com
+características e medidas de análise específicas.
+
+No contexto do diagnóstico, por exemplo, os **estudos de acurácia** têm como
+objetivo principal avaliar a eficácia de um procedimento diagnóstico em comparação
+com um teste considerado padrão-ouro (*gold standard*). Esses estudos investigam a
+capacidade do teste avaliado em identificar corretamente indivíduos com e sem a
+condição de interesse. As medidas de análise mais comumente utilizadas incluem
+sensibilidade (proporção de verdadeiros-positivos), especificidade (proporção de
+verdadeiros-negativos), valores preditivos positivo e negativo (probabilidades
+condicionais de acerto) e a análise de curvas ROC (*Receiver Operating
+Characteristic*), que avaliam a performance global do teste em diferentes pontos de
+corte. Esses parâmetros são cruciais para determinar a aplicabilidade clínica de
+novos métodos diagnósticos, especialmente em cenários nos quais a acurácia pode
+impactar diretamente o manejo do paciente.
+
+No âmbito do tratamento, o **ensaio clínico randomizado e controlado (ECRC)** é
+considerado o padrão-ouro para avaliar intervenções terapêuticas. Nesse tipo de
+estudo, os participantes são aleatoriamente alocados a grupos que recebem a
+intervenção em estudo, placebo ou tratamento padrão. A randomização minimiza
+vieses de seleção e, por isso, garante maior validade interna. Uma das medidas de
+análise mais empregadas nesse contexto é o **número necessário para tratar (NNT)**,
+que indica quantos pacientes precisam ser tratados para que um desfecho clínico
+favorável ocorra em um indivíduo. O ECRC é particularmente útil para avaliar a
+eficácia e a segurança de novos medicamentos ou procedimentos em comparação com
+práticas estabelecidas.
+
+A capacidade de estabelecer prognósticos, por sua vez, baseia-se frequentemente em
+**estudos do tipo coorte**. Esse tipo de estudo acompanha indivíduos expostos e
+não expostos a um fator de interesse ao longo do tempo, observando-se a incidência
+de determinados desfechos ao final do período de acompanhamento. As principais
+medidas de análise nesses estudos incluem o **risco relativo (RR)**, que expressa a
+probabilidade de ocorrência do desfecho nos indivíduos expostos em comparação com
+os não expostos, e o **risco atribuível (RA)**, que quantifica a proporção de casos
+atribuíveis ao fator estudado. Esses dados são essenciais para prever a evolução de
+condições clínicas e planejar estratégias de manejo individualizado.
+
+Por fim, no contexto da prevenção, os ensaios clínicos randomizados também
+desempenham papel central, avaliando a eficácia de intervenções preventivas em
+comparação com placebo. Esses estudos fornecem evidências críticas para a
+implementação de programas de saúde pública e de medidas preventivas, como
+vacinas, rastreamento de doenças e intervenções não farmacológicas
+comportamentais.
+
+Em todos esses tipos de estudo, a capacidade de generalização dos resultados, ou
+**validade externa**, é um aspecto crítico a ser avaliado. Estudos bem desenhados e
+executados não apenas fornecem dados robustos para responder a perguntas clínicas
+específicas, mas também contribuem para a construção de diretrizes que podem ser
+aplicadas em populações amplas. Entretanto, é imprescindível que os profissionais
+de saúde estejam capacitados para avaliar a validade interna e externa dos estudos
+e para reconhecer possíveis vieses metodológicos que possam comprometer a
+interpretação dos resultados.
+
+Em suma, a MBE é um processo sistemático que combina evidências científicas,
+*expertise* clínica e individualização do cuidado, garantindo decisões médicas
+mais precisas e seguras, alinhadas aos melhores interesses dos pacientes.
+
+## Estudos de acurácia diagnóstica na prática médica {#acuracia}
+
+Em medicina e, por consequência, na neurologia, a busca pela precisão diagnóstica é
+uma constante. Seja por meio de sinais clínicos identificados no exame físico ou
+por meio de exames complementares, o objetivo é sempre distinguir, com o máximo de
+acerto, pacientes com e sem a doença em questão. Um teste diagnóstico ideal seria
+aquele que apresenta resultados positivos apenas na presença da patologia e
+negativos na sua ausência. Além disso, tal teste deveria ser acessível, não
+invasivo, de baixo custo e amplamente disponível — características que, na prática,
+raramente coexistem.
+
+Para interpretar adequadamente os testes diagnósticos, é essencial compreender
+alguns conceitos fundamentais. A **sensibilidade** de um teste representa sua
+capacidade de identificar corretamente os indivíduos com a doença, sendo a
+proporção de verdadeiros-positivos em relação ao total de pessoas doentes. Já a
+**especificidade** mede a capacidade de identificar corretamente os indivíduos sem
+a doença, sendo a proporção de verdadeiros-negativos em relação ao total de não
+doentes. A **acurácia**, por sua vez, reflete a proporção de resultados corretos,
+somando verdadeiros-positivos e verdadeiros-negativos em relação ao total de testes
+realizados.
+
+Outros conceitos epidemiológicos, como prevalência e incidência, também são
+relevantes. A **prevalência** mede a frequência total de casos de uma doença em uma
+população em um determinado período e é equivalente à probabilidade pré-teste,
+quando se pensa no raciocínio bayesiano. A **incidência**, por outro lado, mede o
+número de novos casos que surgem em um intervalo de tempo específico. Esses
+parâmetros são cruciais para contextualizar os resultados diagnósticos dentro de
+uma população.
+
+Na prática, um teste diagnóstico com 100% de sensibilidade e especificidade é raro
+ou praticamente inexistente. Geralmente, o aumento da sensibilidade ocorre à custa
+de uma redução na especificidade, e vice-versa. Esses *trade-offs* podem ser
+visualizados em uma tabela 2×2, na qual os resultados do teste (positivos e
+negativos) são comparados ao estado real da doença (presente ou ausente).
+
+Table: (#tab:contingencia) Tabela de contingência para avaliação de testes diagnósticos.
+
+| Resultado do teste diagnóstico | Condição presente (com doença) | Condição ausente (sem doença) |
+|--------------------------------|--------------------------------|-------------------------------|
+| **Teste positivo**             | A (verdadeiro-positivo)        | B (falso-positivo)            |
+| **Teste negativo**             | C (falso-negativo)             | D (verdadeiro-negativo)       |
+
+A tabela apresenta a distribuição dos resultados de um teste diagnóstico em relação
+à presença ou ausência de uma condição: **A** — verdadeiros-positivos (casos
+corretamente identificados como positivos); **B** — falsos-positivos (casos
+incorretamente identificados como positivos); **C** — falsos-negativos (casos
+incorretamente identificados como negativos); **D** — verdadeiros-negativos (casos
+corretamente identificados como negativos). Os indicadores de desempenho
+(sensibilidade, especificidade, acurácia, VPP e VPN) podem ser calculados com base
+nesta tabela. Fonte: os autores (2025).
+
+As medidas derivadas dessa tabela incluem:
+
+- **Sensibilidade:** A / (A + C)
+- **Especificidade:** D / (B + D)
+- **Acurácia:** (A + D) / (A + B + C + D)
+- **Valor preditivo positivo (VPP):** A / (A + B)
+- **Valor preditivo negativo (VPN):** D / (C + D)
+
+Além disso, a **razão de verossimilhança positiva (RVP)**, calculada como
+sensibilidade / (1 − especificidade), é uma métrica que avalia a probabilidade de
+um teste positivo estar associado à presença da doença. Valores maiores que 1
+indicam maior probabilidade de a doença estar presente, enquanto valores menores
+que 1 sugerem o contrário.
+
+A determinação do melhor ponto de corte para um teste diagnóstico, no qual se
+alcança a máxima sensibilidade com o menor número de falsos-positivos, pode ser
+realizada por meio da análise da **curva ROC** (*Receiver Operating
+Characteristic*). Essa ferramenta permite avaliar graficamente o desempenho global
+do teste e comparar diferentes métodos diagnósticos.
+
+A interpretação dos resultados de um teste diagnóstico requer o conhecimento da
+**probabilidade pré-teste**, que é influenciada pela prevalência da doença e pela
+avaliação clínica inicial. Quando a probabilidade pré-teste é alta, um resultado
+positivo tem maior chance de refletir a verdadeira presença da doença, reforçando a
+máxima de que "a clínica é soberana". Por outro lado, em pacientes com baixa
+probabilidade pré-teste, mesmo um resultado positivo pode não ser suficiente para
+confirmar o diagnóstico, demandando uma análise mais criteriosa.
+
+Por fim, a integração desses conceitos na prática clínica é essencial. Nenhum teste
+diagnóstico deve ser interpretado isoladamente, mas sim em conjunto com os achados
+da anamnese e do exame físico. O resultado de um teste serve para corroborar ou
+refutar uma hipótese diagnóstica, mas sempre dentro do contexto clínico geral. Essa
+abordagem assegura decisões diagnósticas mais precisas e alinhadas às necessidades
+do paciente.
+
+## Hierarquização da qualidade da evidência científica na MBE {#hierarquia-evidencia}
+
+A hierarquização dos tipos de estudo conforme seus níveis de qualidade desempenha
+papel essencial na prática da medicina baseada em evidências, permitindo que os
+profissionais de saúde avaliem criticamente a robustez das informações disponíveis
+para embasar decisões clínicas. Um dos sistemas de classificação mais amplamente
+adotados é o do *Oxford Centre for Evidence-Based Medicine* (CEBM), que organiza as
+evidências em uma escala de cinco níveis, em que o nível 1 representa as evidências
+de maior qualidade e o nível 5, aquelas de menor robustez científica.
+
+No nível 1, situam-se as revisões sistemáticas de ensaios clínicos randomizados
+homogêneos (1A) e os ensaios clínicos individuais com intervalos de confiança
+estreitos (1B), amplamente reconhecidos como o padrão-ouro da pesquisa clínica. O
+nível 2 inclui revisões sistemáticas de estudos de coorte homogêneos (2A) e estudos
+de coorte individuais ou ensaios clínicos randomizados de menor qualidade
+metodológica (2B). O nível 3 compreende revisões sistemáticas de estudos de
+caso-controle homogêneos (3A) e estudos de caso-controle individuais (3B). Já o
+nível 4 abrange séries de casos ou estudos de coorte e caso-controle de qualidade
+inferior, enquanto o nível 5 é reservado para opiniões de especialistas, que,
+embora úteis, carecem de evidências empíricas diretas.
+
+É importante ressaltar que essa hierarquização não deve ser interpretada de forma
+rígida ou isolada, pois diferentes questões clínicas podem requerer diferentes
+tipos de evidência. Por exemplo, para questões sobre efeitos de tratamentos, os
+ensaios clínicos randomizados são ideais, enquanto, para a investigação de fatores
+prognósticos, os estudos de coorte podem ser mais apropriados. Além disso, a
+qualidade metodológica dentro de cada nível pode variar significativamente,
+tornando fundamental a avaliação crítica detalhada de cada estudo.
+
+O sistema CEBM também incorpora **graus de recomendação** (A a D), que consideram
+não apenas o nível da evidência, mas também sua aplicabilidade clínica e
+consistência. Uma recomendação grau A, por exemplo, é derivada principalmente de
+estudos 1A e 1B, indicando forte evidência para sua implementação na prática
+clínica. Esse aspecto adicional auxilia os profissionais a traduzirem as evidências
+em decisões práticas.
+
+## Medicina centrada no paciente antagoniza a medicina baseada em evidências? {#mbe-vs-centrada}
+
+A medicina baseada em evidências (MBE) constitui elemento fundamental na prática
+clínica centrada no paciente, estabelecendo a integração sistemática entre
+evidências científicas robustas, *expertise* clínica do profissional e
+características individuais do paciente. Essa abordagem reconhece o indivíduo como
+entidade multidimensional, considerando os aspectos biológicos, socioculturais e
+econômicos que influenciam tanto o processo diagnóstico quanto as estratégias
+terapêuticas.
+
+A implementação da MBE pressupõe a análise criteriosa das evidências científicas
+disponíveis no contexto específico de cada caso, permitindo uma avaliação mais
+precisa e fundamentada. Esse processo é especialmente relevante considerando-se o
+volume crescente de informações científicas e de opções terapêuticas disponíveis,
+tornando impraticável o domínio completo de todas as possibilidades por um único
+profissional. Nesse cenário, a atualização sistemática por meio de bases de dados
+validadas e ferramentas digitais torna-se instrumental para a elaboração de planos
+terapêuticos individualizados.
+
+A **tomada de decisão compartilhada**, elemento central dessa abordagem, requer a
+apresentação objetiva dos benefícios e riscos associados às diferentes opções
+terapêuticas. Esse processo não apenas respeita os princípios bioéticos
+fundamentais, com destaque para a autonomia do paciente, mas também demonstra
+correlação positiva com a adesão terapêutica e com desfechos clínicos favoráveis.
+Dessa forma, evidencia-se que a MBE e a medicina centrada no paciente não
+constituem abordagens antagônicas, mas complementares, potencializando a qualidade
+do cuidado em saúde por meio da integração entre evidências científicas rigorosas e
+necessidades individuais.
+
+A prática contemporânea da medicina requer, portanto, a capacidade de sintetizar
+evidências científicas de alta qualidade e adaptá-las às particularidades de cada
+caso, considerando aspectos como preferências do paciente, recursos disponíveis e
+contexto sociocultural. Essa integração sistemática entre medicina baseada em
+evidências e cuidado centrado no paciente representa um paradigma fundamental para
+a otimização dos resultados terapêuticos e a satisfação dos envolvidos no processo
+de cuidado.
+
+## Referências {-}
+
+- Djulbegovic B, Guyatt GH. Progress in evidence-based medicine: a quarter century
+  on. *Lancet.* 2017;390(10092):415-423. doi:10.1016/S0140-6736(16)31592-6
+- Sheridan DJ, Julian DG. Achievements and limitations of evidence-based medicine.
+  *J Am Coll Cardiol.* 2016;68(2):204-213. doi:10.1016/j.jacc.2016.03.600
+- Horwitz RI, Hayes-Conroy A, Caricchio R, Singer BH. From evidence-based medicine
+  to medicine-based evidence. *Am J Med.* 2017;130(11):1246-1250.
+  doi:10.1016/j.amjmed.2017.06.012
+- Govindarajan R, Narayanaswami P. Evidence-based medicine for every day, everyone,
+  and every therapeutic study. *Muscle Nerve.* 2018;58(4):486-496.
+  doi:10.1002/mus.26142
+- Milligan TA. Diagnosis in neurologic disease. *Med Clin North Am.*
+  2019;103(2):173-190. doi:10.1016/j.mcna.2018.10.011
+- Stanley MPH, Hall KE, Mullally WJ. The neurologic exam. *Am J Med.*
+  2023;136(7):638-644. doi:10.1016/j.amjmed.2023.03.016
+- Small SL. Precision neurology. *Ageing Res Rev.* 2024;104:102632.
+  doi:10.1016/j.arr.2024.102632
+- Hampel H, Gao P, Cummings J, et al. The foundation and architecture of precision
+  medicine in neurology and psychiatry. *Trends Neurosci.* 2023;46(3):176-198.
+  doi:10.1016/j.tins.2022.12.004
+- Montine TJ, Montine KS. Precision medicine: clarity for the clinical and
+  biological complexity of Alzheimer's and Parkinson's diseases. *J Exp Med.*
+  2015;212(5):601-605. doi:10.1084/jem.20150656
+- Hinman JD, Rost NS, Leung TW, et al. Principles of precision medicine in stroke.
+  *J Neurol Neurosurg Psychiatry.* 2017;88(1):54-61. doi:10.1136/jnnp-2016-314587

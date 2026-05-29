@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [references.bib]
 csl: vancouver.csl
 link-citations: true
-github-repo: SEU-USUARIO/livro-semiologia
+github-repo: pedrobrandao-neurologia/livro-neurologia
 description: "Manual colaborativo de semiologia neurológica da Universidade de Brasília, mantido em texto Markdown e publicado continuamente via Git."
 ---
 
