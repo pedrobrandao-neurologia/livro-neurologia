@@ -1,0 +1,109 @@
+# Princípios do diagnóstico neurológico {#principios-diagnostico}
+
+*Pedro Renato de Paula Brandão*
+
+O raciocínio diagnóstico em neurologia segue uma sequência lógica e sistemática,
+estruturada em etapas que complementam as três fases principais do diagnóstico
+neurológico: **sindrômico**, **topográfico** e **etiológico**. Pode ser organizado em
+seis passos interdependentes:
+
+1. **Coleta e análise de dados:** anamnese minuciosa (queixa principal, evolução
+   temporal, antecedentes, fatores de risco) e exame neurológico com registro de
+   achados positivos e negativos.
+2. **Diagnóstico sindrômico:** identificação da síndrome (piramidal, sensitiva,
+   atáxica, coreica etc.).
+3. **Diagnóstico topográfico:** localização anatômica da lesão, com base na
+   neuroanatomia funcional (encéfalo, medula, nervos periféricos, junção
+   neuromuscular ou músculos).
+4. **Diagnóstico etiológico:** análise conjunta de topografia e apresentação clínica.
+   O acrônimo **VITAMINDEC** organiza as categorias: **V**ascular, **I**nflamatório/
+   infeccioso, **T**raumático, **A**utoimune, **M**etabólico, **I**diopático,
+   **N**eoplásico, **D**egenerativo, **E**ndócrino, **C**ongênito.
+5. **Investigação complementar:** exames dirigidos pelas hipóteses (neuroimagem,
+   laboratório, neurofisiologia).
+6. **Diagnóstico definitivo e plano terapêutico.**
+
+## Topografando a lesão {#topografia}
+
+A localização precisa da lesão depende da integração entre semiologia e
+neuroanatomia. Algumas simplificações práticas auxiliam a identificar o local
+primário de comprometimento:
+
+- **Disfunção cerebral:** declínio cognitivo, estado confusional, afasia, crises,
+  hemianopsia. Acometimento bilateral sugere causa tóxica, metabólica ou infecciosa.
+- **Doença extrapiramidal:** distúrbios hipocinéticos (parkinsonismo) ou hipercinéticos
+  (coreia, hemibalismo, atetose, distonia), sem envolvimento sensitivo.
+- **Tronco cerebral e cerebelo:** sinais cruzados, nistagmo, diplopia, vertigem,
+  disfagia, ataxia.
+- **Mielopatias:** nível sensitivo, fraqueza, espasticidade, hiperreflexia, Babinski.
+- **Radiculopatia:** dor irradiada além do cotovelo/joelho, fraqueza focal,
+  fasciculações, reflexos diminuídos no território radicular.
+- **Plexopatia:** múltiplos nervos, dor e fraqueza em várias distribuições.
+- **Neuropatia:** bilateral, dos pés para as mãos, sintomas sensitivos (formigamento,
+  dor).
+- **Junção neuromuscular:** fraqueza flutuante (miastenia gravis); Lambert-Eaton
+  (fraqueza proximal, disautonomia, hiporreflexia).
+- **Miopatias:** fraqueza proximal progressiva, sem alterações sensitivas.
+- **Doença meníngea:** rigidez nucal, cefaleia; punção lombar fundamental.
+
+### Sistema motor {#sistema-motor}
+
+Os neurônios motores da coluna ventral e os núcleos motores do tronco constituem a
+**via final comum**. O **trato corticoespinal**, responsável pela motricidade fina,
+origina-se no córtex motor (áreas 4 e 6), desce pela corona radiata e cápsula interna,
+e cruza na **decussação das pirâmides** (~90% das fibras). O **trato corticobulbar**
+inerva bilateralmente os núcleos dos nervos cranianos (exceto a porção do facial para
+os músculos faciais inferiores). Lesões supranucleares causam sinais de NMS (fraqueza,
+espasticidade, hiperreflexia); lesões infranucleares causam sinais de NMI (fraqueza,
+atrofia, hipotonia, arreflexia).
+
+### Sistema sensitivo {#sistema-sensitivo}
+
+Duas vias: **espinotalâmica** (dor, temperatura, tato protopático) e **coluna
+dorsal–lemnisco medial** (propriocepção, vibração, tato discriminativo). Sintomas
+sensitivos classificam-se em **positivos** (parestesias, hiperestesia, disestesia) ou
+**negativos** (hipoestesia, anestesia, apalestesia).
+
+### Disfunções da marcha {#topo-marcha}
+
+A localização envolve a caracterização do tipo de marcha (ex.: hemiparética por lesão
+do trato corticoespinhal) e a identificação de sinais concomitantes (ex.: Babinski).
+Estruturas-chave: núcleos vestibulares, formação reticular, núcleos pedunculopontino e
+cuneiforme, substância negra, cerebelo, núcleos da base e tálamo.
+
+## Topografia talâmica {#topografia-talamica}
+
+O **tálamo** é a estação integradora de informações sensoriais, motoras e límbicas,
+dividida pela lâmina medular interna em grupos anterior, medial, lateral e posterior
+(pulvinar), além dos corpos geniculados. Núcleos de relevo: **VPL/VPM**
+(somatossensitivo), **VA/VL** ("tálamo motor"), **dorsomedial** (córtex pré-frontal e
+límbico), **anterior** (circuito de Papez), **pulvinar** e geniculados (visual e
+auditivo), e os **intralaminares** (consciência e atenção, via SARA).
+
+**Síndromes vasculares talâmicas:**
+
+- **Tuberotalâmica:** déficits neuropsicológicos (amnésia verbal e anomia à esquerda;
+  déficits visuoespaciais à direita), apatia, perseveração.
+- **Paramediana** (frequentemente bilateral): rebaixamento da consciência, mutismo
+  acinético, amnésia (imita síndrome de Korsakoff).
+- **Inferolateral** (talamogeniculadas): hemianestesia contralateral, hemiparesia,
+  hemiataxia; complicação tardia: **síndrome de dor talâmica (Dejerine-Roussy)**.
+- **Coroidea posterior:** déficits visuais (hemianopsia homônima) e cognitivos.
+
+::: {.note}
+O diagnóstico neurológico requer abordagem estruturada que combina análise clínica
+sistemática (sindrômica, topográfica e etiológica), conhecimento da neuroanatomia e
+uso criterioso de exames complementares. Localizar a lesão, considerando as múltiplas
+vias funcionais, confere precisão ao raciocínio e orienta condutas terapêuticas e
+prognósticas.
+:::
+
+## Referências {-}
+
+- Anderson NE, Mason DF, Fink JN, et al. Detection of focal cerebral hemisphere
+  lesions using the neurological examination. *J Neurol Neurosurg Psychiatry.*
+  2005;76(4):545-549. doi:10.1136/jnnp.2004.043679
+- Masdeu JC, Biller J. *Localization in Clinical Neurology.* Lippincott Williams &
+  Wilkins; 2011.
+- Schmahmann JD. Vascular syndromes of the thalamus. *Stroke.* 2003;34(9):2264-2278.
+  doi:10.1161/01.STR.0000087786.38997.9E

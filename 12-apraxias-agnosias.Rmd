@@ -1,0 +1,59 @@
+# Funções corticais superiores — apraxias e agnosias {#apraxias-agnosias}
+
+## Apraxias {#apraxias}
+
+Chamamos de **apraxia** a incapacidade de realizar atos motores com determinado
+propósito, que não pode ser explicada por distúrbios motores primários, déficits
+sensoriais ou falta de compreensão. Reflete alteração na cognição motora.
+
+- **Apraxia ideomotora:** incapacidade de converter uma ideia motora em padrão de
+  movimento adequado. Erros de escala, tempo ou orientação; dificuldade em gestos
+  arbitrários e pantomimas. O desempenho melhora com o objeto real em mãos.
+- **Apraxia ideacional:** deficiência na concepção e no planejamento do ato motor;
+  dificuldade em usar ferramentas e realizar ações sequenciais (acender um fósforo,
+  preparar chá). Associada a lesões extensas e bilaterais (Alzheimer avançado).
+- **Apraxia cinética dos membros:** perda da coordenação motora fina, secundária a
+  lesões pré-frontais; evidente na síndrome corticobasal.
+- **Apraxia bucofacial e da fala:** dificuldade em movimentos orofaciais não
+  relacionados à fala; a apraxia da fala resulta em fala lenta, esforçada, com erros
+  na ordenação de sílabas.
+
+Neuroanatomicamente, associa-se a lesões do **hemisfério esquerdo** (lobos parietal e
+pré-frontal) e do corpo caloso. A avaliação inclui pantomima do uso de ferramentas e
+sequências motoras complexas (tarefa de três etapas de Luria).
+
+## Agnosias {#agnosias}
+
+Chamamos de **agnosia** a incapacidade de reconhecer estímulos sensoriais, mesmo na
+ausência de déficits perceptivos básicos.
+
+**Agnosia visual:**
+
+- **Aperceptiva:** incapacidade de construir uma representação visual coerente
+  (lesões bilaterais do lobo occipital lateral).
+- **Associativa:** percepção completa, mas sem associação ao conhecimento prévio
+  (copia o desenho, mas não nomeia); lesões occipitotemporais.
+- **Prosopagnosia:** incapacidade de reconhecer rostos (região fusiforme).
+- **Simultanagnosia:** dificuldade de perceber múltiplos elementos simultaneamente
+  (dorsal — lesões parietais bilaterais; ventral — temporo-occipital esquerda).
+
+**Agnosia auditiva:** para sons ambientais; para palavras (surdez verbal pura).
+
+**Agnosia somatossensitiva:** astereognosia; somatoagnosia (lobo parietal direito).
+
+Vias do processamento visual: a **via dorsal** ("onde") projeta-se ao lobo parietal
+(controle visual de ações); a **via ventral** ("o quê") ao lobo temporal
+(reconhecimento de objetos). Lesões na via dorsal causam simultanagnosia ou
+**síndrome de Balint** (simultanagnosia + ataxia óptica + paralisia da fixação
+ocular). A **afasia óptica** ilustra a dissociação entre reconhecimento e nomeação.
+
+## Referências {-}
+
+- Farah MJ. Agnosia. *Curr Opin Neurobiol.* 1992;2(2):162-164.
+  doi:10.1016/0959-4388(92)90005-6
+- De Renzi E. Disorders of visual recognition. *Semin Neurol.* 2000;20(4):479-485.
+  doi:10.1055/s-2000-13181
+- Zadikoff C, Lang AE. Apraxia in movement disorders. *Brain.* 2005;128(Pt 7):1480-1497.
+  doi:10.1093/brain/awh560
+- Leiguarda RC, Marsden CD. Limb apraxias: higher-order disorders of sensorimotor
+  integration. *Brain.* 2000;123(Pt 5):860-879. doi:10.1093/brain/123.5.860

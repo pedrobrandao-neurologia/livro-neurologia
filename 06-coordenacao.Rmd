@@ -1,0 +1,114 @@
+# Coordenação {#coordenacao}
+
+As **ataxias**, ou incoordenações motoras, podem ser classificadas em três tipos
+fundamentais, conforme o substrato anatômico da lesão:
+
+1. **Ataxia sensitiva (cordonal posterior):** lesão das vias da sensibilidade
+   proprioceptiva. Piora acentuada com a supressão da visão.
+2. **Ataxia cerebelar:** lesão do cerebelo ou de suas vias. Não se modifica
+   significativamente com o fechamento dos olhos.
+3. **Ataxia vestibular:** lesão do sistema vestibular; manifesta-se na marcha e no
+   equilíbrio, com lateropulsão para o lado da lesão.
+
+O exame fundamenta-se em manobras que exigem precisão, velocidade e amplitude
+adequada: prova índex-nariz, calcanhar-joelho, índex-índex e movimentos alternados
+rápidos (diadococinesia). Cada manobra deve ser executada com os olhos abertos e,
+em seguida, fechados, de forma comparativa — etapa obrigatória para distinguir
+ataxia sensitiva (piora marcante) de cerebelar (sem modificação substancial).
+
+## Ataxia sensitiva {#ataxia-sensitiva}
+
+O substrato é a perda da informação proprioceptiva que guia o movimento. Sem ela, o
+paciente depende da visão como compensação.
+
+**Semiotécnica.** Nas provas índex-nariz e calcanhar-joelho, o movimento é irregular
+e grosseiro durante **toda** a trajetória (diferente da cerebelar, em que a
+irregularidade predomina na fase terminal). Movimentos pseudoatetóticos podem ocorrer.
+Caracteristicamente, piora acentuada com a supressão da visão.
+
+**Sinal de Romberg.** Prova complementar mais importante: instabilidade significativa
+ao fechar os olhos, com oscilações multidirecionais. Presente na ataxia sensitiva,
+**ausente** na cerebelar pura.
+
+**Etiologias.** *Tabes dorsalis* (neurossífilis), degeneração combinada subaguda
+(deficiência de B12), ganglionopatias sensitivas (Sjögren, intoxicação por piridoxina,
+síndromes paraneoplásicas anti-Hu) e ataxia de Friedreich.
+
+## Ataxia cerebelar {#ataxia-cerebelar}
+
+Sinais cardinais da disfunção cerebelar motora:
+
+- **Dismetria:** erro na medida do movimento — hipermetria (mais característica) ou
+  hipometria. Testa-se por índex-nariz e calcanhar-joelho; a variação índex-nariz-índex
+  acentua a dismetria.
+- **Tremor de intenção (cinético terminal):** 3–5 Hz, amplitude crescente ao
+  aproximar-se do alvo; cessa com repouso. Lesões do núcleo denteado e pedúnculo
+  cerebelar superior.
+- **Decomposição do movimento:** executado em etapas, segmento por segmento.
+- **Disdiadococinesia:** incapacidade de movimentos alternados rápidos regulares
+  (pronação-supinação). A incapacidade total chama-se **adiadococinesia**.
+- **Hipotonia cerebelar:** reflexos pendulares; mais evidente em lesões agudas e
+  hemisféricas.
+- **Fenômeno do rechaço (sinal de Stewart-Holmes):** falha em frear o movimento ao
+  retirar subitamente a resistência.
+
+Nenhum desses sinais se modifica significativamente com o fechamento dos olhos —
+distinção semiológica mais importante entre ataxia cerebelar e cordonal posterior.
+
+> **Fotografia — Avaliação da diadococinesia.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+### Assinergia (dissinergia cerebelar) {#assinergia}
+
+Incapacidade de combinar harmonicamente múltiplos grupos musculares (conceito de
+Joseph Babinski). Provas: assinergia tronco-membros na marcha; prova da inclinação
+posterior; prova de levantar-se sem as mãos. Lesões do verme associam-se a assinergia
+axial; lesões hemisféricas, a assinergia apendicular.
+
+### Disartria cerebelar (fala escandida) {#disartria-cerebelar}
+
+Irregularidade do ritmo e prosódia, fala "escandida". Avalia-se com frases de
+sequências complexas ("artilharia", "hipopótamo") e sílabas alternadas ("pa-ta-ka").
+Associada à região paramediana do lobo anterior e lóbulo VI.
+
+> **Fotografias — Teste indicador-nariz e manobra calcanhar-joelho.** *(imagens a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+## Papel do cerebelo na fala e nos movimentos oculares {#cerebelo-fala-olhos}
+
+O cerebelo participa da coordenação dos músculos, ritmo e articulação da fala (áreas
+paravermianas e via dentato-tálamo-cortical), bem como do controle dos movimentos
+oculares: perseguição suave, sacadas, reflexo vestíbulo-ocular (RVO), reflexo
+optocinético e manutenção do olhar.
+
+### Distúrbios dos movimentos oculares {#disturbios-oculares-cerebelo}
+
+- **Nistagmo:** o evocado pelo olhar (*gaze-evoked*) é o achado oculomotor mais
+  frequente; o *downbeat* sugere lesão da junção craniocervical ou do flóculo.
+- **Dismetria sacádica:** hipermetria (mais específica de lesão cerebelar) ou
+  hipometria, com sacadas corretivas.
+- **Perseguição fragmentada (*saccadic pursuit*):** decomposta em sacadas.
+- **Comprometimento do RVO:** falha na supressão durante a fixação visual.
+
+## Topografia funcional cerebelar {#topografia-cerebelar}
+
+Table: (#tab:topo-cerebelo) Correlação topográfica: onde está a lesão no cerebelo?
+
+| Região cerebelar | Manifestações predominantes |
+|---|---|
+| Verme (lobo anterior) | Ataxia de tronco, marcha de base alargada, instabilidade postural |
+| Hemisférios cerebelares | Ataxia apendicular ipsilateral (dismetria, tremor, disdiadococinesia) |
+| Flóculo/paraflóculo | Nistagmo, perseguição fragmentada, falha na supressão do RVO |
+| Verme oculomotor (lóbulos V–VII) | Dismetria sacádica |
+| Nódulo/úvula | Vertigem posicional, nistagmo posicional |
+| Lobo posterior (lóbulos VI–VII) | Síndrome cognitivo-afetiva (CCAS/Schmahmann) |
+
+## Referências {-}
+
+- Power L, Pathirana P, Horne M, et al. Instrumented Objective Clinical Examination
+  of Cerebellar Ataxia. *Cerebellum.* 2022;21(1):145-158. doi:10.1007/s12311-021-01253-8
+- Kashyap B, Phan D, Pathirana PN, et al. Objective Assessment of Cerebellar Ataxia.
+  *Sci Rep.* 2020;10(1):9493. doi:10.1038/s41598-020-65303-7
+- Zwergal A, Feil K, Schniepp R, Strupp M. Cerebellar Dizziness and Vertigo. *Semin
+  Neurol.* 2020;40(1):87-96. doi:10.1055/s-0039-3400315
+- Bodranghien F, Bastian A, Casali C, et al. Consensus Paper: Revisiting the Symptoms
+  and Signs of Cerebellar Syndrome. *Cerebellum.* 2016;15(3):369-391.
+  doi:10.1007/s12311-015-0687-3

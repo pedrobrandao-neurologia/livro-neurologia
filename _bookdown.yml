@@ -12,7 +12,19 @@ rmd_files:
   - index.Rmd
   - 01-anamnese.Rmd
   - 02-raciocinio-diagnostico.Rmd
-  - 03-exame-motor.Rmd
-  - 04-reflexos.Rmd
-  - 05-pares-cranianos.Rmd
+  - 03-inspecao.Rmd
+  - 04-equilibrio-marcha.Rmd
+  - 05-motricidade-forca.Rmd
+  - 06-coordenacao.Rmd
+  - 07-tonus-sinais-meningeos.Rmd
+  - 08-reflexos.Rmd
+  - 09-sensibilidade.Rmd
+  - 10-nervos-cranianos.Rmd
+  - 11-linguagem-fala.Rmd
+  - 12-apraxias-agnosias.Rmd
+  - 13-coma.Rmd
+  - 14-crises-epilepticas.Rmd
+  - 15-cefaleia.Rmd
+  - 16-exame-crianca.Rmd
+  - 17-principios-diagnostico.Rmd
   - 99-referencias.Rmd

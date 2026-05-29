@@ -1,0 +1,187 @@
+# Reflexos {#reflexos}
+
+Os reflexos de estiramento muscular, classicamente denominados reflexos tendinosos
+profundos ou **reflexos miotáticos**, permanecem como pilares da semiologia
+neurológica. A percussão do tendão desencadeia eventos neurofisiológicos em apenas
+~25 ms, com velocidade de condução de até 50 m/s. Dividem-se, de modo simplificado,
+em **reflexos profundos** e **reflexos superficiais**.
+
+São mediados pelo **arco reflexo monossináptico**: o estiramento ativa os fusos
+musculares, cujas aferências tipo Ia fazem sinapse direta com motoneurônios alfa no
+corno anterior, resultando na contração do músculo estirado. Interneurônios
+inibitórios suprimem os antagonistas (**inibição recíproca**). O circuito é modulado
+pelos órgãos tendinosos de Golgi (fibras Ib), células de Renshaw (inibição
+recorrente), fibras gama e influências supramedulares (tronco encefálico e córtex
+motor).
+
+## Reflexos de estiramento muscular {#reflexos-profundos}
+
+Graduados de 0 a 4+ (padronização NINDS):
+
+- **0 — Arreflexia:** ausente mesmo com reforço.
+- **1+ — Hiporreflexia:** diminuído; frequentemente requer manobra de reforço.
+- **2+ — Normorreflexia:** normal.
+- **3+ — Hiperreflexia leve:** vivo, com possível irradiação, sem clônus; significativo
+  quando assimétrico.
+- **4+ — Hiperreflexia franca com clônus:** patológico; disfunção do trato
+  corticoespinhal.
+
+::: {.note}
+Um reflexo que só aparece com manobra de reforço é graduado como **1+, não 0**. A
+arreflexia verdadeira implica interrupção do arco reflexo; a hiporreflexia com
+facilitação indica arco íntegro com excitabilidade reduzida. A **assimetria** é o
+critério de maior valor semiológico.
+:::
+
+**Manobras de reforço (facilitação).** A **manobra de Jendrassik** (Ernő Jendrassik,
+1885) é a mais clássica para os membros inferiores: o paciente entrelaça os dedos e
+os puxa em sentidos opostos no momento exato da percussão. Para os membros
+superiores: morder os dentes, contar em voz alta ou olhar fixamente para o teto.
+
+> **Fotografia — Manobra de Jendrassik para o reflexo patelar.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+**Principais reflexos profundos:**
+
+- **Masseterino (mandibular):** único reflexo miotático de nervo craniano de rotina;
+  arco integralmente na ponte (trigêmeo). Exacerbação indica lesão supranuclear
+  bilateral (síndrome pseudobulbar); abolição indica neuropatia trigeminal.
+- **Bicipital:** flexão do antebraço; nervo musculocutâneo, C5–C6 (C5 predominante).
+- **Braquiorradial (estilorradial):** flexão com supinação parcial; nervo radial, C6.
+  Mais sensível para a raiz C6.
+- **Tricipital:** extensão do antebraço; nervo radial, C7. Abolição isolada é o
+  marcador mais específico de radiculopatia C7.
+- **Cubitopronador:** pronação; mediano e ulnar, C8–T1.
+- **Reflexo dos flexores dos dedos:** flexão dos dedos; mediano e ulnar, C8. Pode ser
+  elicitado pela técnica de Wartenberg.
+- **Sinal de Hoffmann:** flexão rápida da falange distal do dedo médio; positivo
+  quando há flexão reflexa do polegar. Avalia a via corticoespinhal — valor quando
+  assimétrico.
+- **Sinal de Trömner:** variante percussiva, mesma resposta.
+- **Patelar (rotuliano):** extensão da perna; nervo femoral, L2–L4 (L4 predominante).
+  Marcador mais sensível para a raiz L4.
+- **Aquileu (tricipital sural):** flexão plantar; nervo tibial, S1 (S1–S2). Marcador
+  mais sensível e específico para S1.
+
+> **Fotografias — reflexos masseterino, bicipital (sentado e decúbito), estilorradial, tricipital, flexores dos dedos, patelar (sentado e decúbito) e aquileu.** *(imagens a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+### Clônus {#clonus}
+
+Série de contrações rítmicas auto-sustentadas pelo estiramento súbito e mantido de
+um músculo hiperreflexo. O **clônus aquileu** é o mais comum (dorsiflexão rápida e
+mantida do pé; 5–8 Hz). Um clônus **esgotável** pode ocorrer em indivíduos ansiosos;
+o **inesgotável** é sempre patológico (disfunção do trato corticoespinhal). Mecanismo:
+oscilação ressonante do arco miotático por desinibição corticoespinhal.
+
+> **Figura — Avaliação do clônus aquileu e patelar.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+### Outros reflexos e fenômenos {#outros-reflexos-profundos}
+
+- **Reflexo adutor da coxa** (obturador, L2–L4): resposta cruzada exacerbada indica
+  comprometimento corticoespinhal bilateral.
+- **Reflexos isquiotibiais** (medial — L5; lateral — S1): úteis no diagnóstico
+  diferencial de neuropatia do ciático vs. radiculopatias.
+- **Reflexo invertido:** percussão de um tendão produz contração do antagonista (ex.:
+  bicipital invertido). Indica lesão em dois níveis: abolição do arco no nível da lesão
+  + hiperreflexia abaixo. Sinal de mielopatia cervical (C5–C6).
+- **Reflexo pervertido:** percussão evoca contração de sinergistas por irradiação
+  (ex.: flexão dos dedos ao percutir o braquiorradial). Indica apenas hiperreflexia com
+  ampliação da zona reflexógena, sem valor localizatório específico.
+
+Os reflexos miotáticos estarão **exaltados** em lesões piramidais (perda do controle
+inibitório descendente) e **diminuídos/abolidos** quando há comprometimento do arco
+reflexo (neuropatias, radiculopatias, lesões medulares focais).
+
+## Reflexos cutâneos {#reflexos-cutaneos}
+
+Reflexos exteroceptivos, nociceptivos e **polissinápticos** (fibras A-delta e C),
+dependentes da integridade simultânea do NMS e do NMI.
+
+- **Cutâneo-abdominais:** contração ipsilateral com desvio da cicatriz umbilical;
+  níveis superior (T7–T8), médio (T9–T10) e inferior (T11–T12). A **abolição unilateral**
+  é sinal precoce e sensível de lesão piramidal ipsilateral; a ausência bilateral tem
+  valor limitado (obesos, multíparas, idosos).
+- **Cremastérico** (L1–L2): elevação ipsilateral do testículo. Abolição unilateral
+  indica lesão piramidal ipsilateral.
+- **Bulbocavernoso** (S2–S4): avalia a integridade do cone medular; primeiro reflexo a
+  retornar após o choque medular.
+- **Cutâneo-plantar** (S1–S2): resposta normal no adulto é a flexão plantar dos dedos.
+
+### Sinal de Babinski e sucedâneos {#babinski}
+
+O **sinal de Babinski** (Joseph Babinski, 1896) consiste na **dorsiflexão lenta e
+tônica do hálux**, frequentemente com abdução em leque dos demais dedos (*sinal do
+leque*). É o sinal de maior valor localizatório da semiologia: indica disfunção do
+trato corticoespinhal em qualquer nível e é **sempre patológico no adulto**.
+Distinguir o Babinski verdadeiro (lento, tônico) das respostas de retirada por
+hipersensibilidade plantar.
+
+> **Figuras — Reflexo cutâneo-abdominal e reflexo cutâneo-plantar (técnica).** *(imagens a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+Table: (#tab:sucedaneos) Reflexos sucedâneos de Babinski.
+
+| Sinal | Método de elicitação |
+|---|---|
+| Chaddock | Estimulação ao redor do maléolo lateral |
+| Oppenheim | Pressão descendente sobre a tíbia anterior |
+| Gonda | Flexão forçada do 2º ou 4º dedo do pé |
+| Gordon | Pressão profunda nos músculos da panturrilha |
+| Schaefer | Pressão profunda no tendão de Aquiles |
+| Stransky | Abdução e estalido do 5º dedo |
+| Mendel-Bechterew | Percussão no dorso do pé (cuboide) |
+| Rossolimo | Estalar/esticar as falanges distais dos dedos |
+| Moniz | Flexão plantar forçada e passiva do tornozelo |
+| Bing | Picada no dorso do pé com alfinete |
+| Strümpell | Pressão profunda na tíbia anterior |
+| Cornell | Estimulação do dorso do pé ao longo do tendão extensor do hálux |
+| Austregésilo-Esposel | Estimulação da face anterior/medial da coxa |
+
+> **Figura — Antônio Austregésilo Rodrigues de Lima.** *(imagem a inserir em `figuras/`)* Primeiro professor catedrático de Neurologia no Brasil (UFRJ).
+
+## Evolução dos martelos de reflexo {#martelos}
+
+Martelos iniciais leves produziam resultados inconsistentes; Berliner e Troemner
+sugeriram designs mais pesados. O **Martelo de Babinski** (1896) tinha cabo de aço de
+20–25 cm; Abraham Rabiner adicionou cabeça rosqueável. O **Martelo do Queen Square**
+(1925, Miss Wintle), com cabo de bambu flexível e disco de borracha de 3,8 cm, é
+pesado, flexível e indolor. Estudos indicam superioridade dos martelos Queen Square e
+Babinski pela maior força de impacto.
+
+> **Figuras — Joseph Babinski e martelos de reflexo neurológico.** *(imagens a inserir em `figuras/`)*
+
+## Reflexos primitivos e axiais {#reflexos-primitivos}
+
+Manifestações motoras involuntárias presentes em recém-nascidos que desaparecem com a
+maturação do SNC. Sua **reemergência em adultos** sugere disfunção neurológica
+significativa (lesões frontais, demências, doenças neurodegenerativas):
+
+- **Preensão palmar/plantar:** flexão involuntária à pressão; lesões frontais.
+- **Glabelar:** percussão da glabela; a persistência sem habituação é o **fenômeno de
+  Myerson** (doença de Parkinson).
+- **Sucção:** lesão cortical difusa (demências).
+- **Snout (focinho):** protrusão dos lábios à percussão do lábio superior; disfunção
+  frontal, síndromes pseudobulbares.
+- **Palmomentoniano:** contração ipsilateral do mentoniano à estimulação da eminência
+  tenar.
+
+A presença de múltiplos reflexos primitivos reflete desconexão funcional córtico-
+subcortical e perda do controle inibitório cortical.
+
+> **Figura — Reflexo glabelar e snout reflex.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+## Referências {-}
+
+- Reschechtko S, Pruszynski JA. Stretch reflexes. *Curr Biol.* 2020;30(18):R1025-R1030.
+  doi:10.1016/j.cub.2020.07.092
+- Boes CJ. The history of examination of reflexes. *J Neurol.* 2014;261(12):2264-2274.
+  doi:10.1007/s00415-014-7326-7
+- Bhattacharyya KB. Deep tendon reflex: The background story of a simple technique.
+  *Neurol India.* 2017;65(2):245-249. doi:10.4103/neuroindia.NI_1177_16
+- Miller TM, Johnston SC. Should the Babinski sign be part of the routine neurologic
+  examination? *Neurology.* 2005;65(8):1165-1168. doi:10.1212/01.wnl.0000180608.76190.10
+- Ambesh P, Paliwal VK, Shetty V, Kamholz S. The Babinski Sign: A comprehensive
+  review. *J Neurol Sci.* 2017;372:477-481. doi:10.1016/j.jns.2016.10.041
+- Irfan Z, Vaughn SN, Ganti L. History and Evolution of the Reflex Hammer. *Cureus.*
+  2024;16(8):e66333. doi:10.7759/cureus.66333
+- Schott JM, Rossor MN. The Grasp and Other Primitive Reflexes. *J Neurol Neurosurg
+  Psychiatry.* 2003;74(5):558-560. doi:10.1136/jnnp.74.5.558
+- Campbell WW, Barohn RJ. *DeJong: O Exame Neurológico.* 8ª ed. Guanabara Koogan; 2021.

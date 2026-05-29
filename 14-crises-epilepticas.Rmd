@@ -1,0 +1,71 @@
+# Semiologia das crises epilépticas {#crises-epilepticas}
+
+As **crises epilépticas** são eventos transitórios resultantes de atividade neuronal
+anormal, excessiva ou sincrônica no cérebro. Com prevalência estimada de ~0,5%, a
+epilepsia é classificada pela **Liga Internacional Contra a Epilepsia (ILAE)** em
+crises generalizadas, focais e de origem desconhecida.
+
+## Crises generalizadas {#crises-generalizadas}
+
+Caracterizam-se pela ativação rápida de redes bilaterais. As principais:
+
+- **Tônico-clônicas (TCG, "grande mal"):** perda abrupta da consciência, fase tônica
+  de contração generalizada e fase clônica de abalos rítmicos; apneia, liberação
+  esfincteriana, sialorreia, mordedura da língua. Cinco fases: premonitória, pré-ictal
+  imediata, ictal, pós-ictal imediata e recuperação.
+- **Ausência típica ("petit mal"):** interrupção abrupta da consciência, 4–20 s;
+  EEG com complexos espícula-onda a 3 Hz.
+- **Clônicas:** contrações repetitivas e breves.
+- **Tônicas:** contração sustentada (10–15 s); síndrome de Lennox-Gastaut; EEG com
+  atividade rítmica 10–25 Hz frontal.
+- **Mioclônicas:** abalos breves e súbitos; EEG com polispícula-onda; epilepsia
+  mioclônica juvenil.
+- **Espasmos epilépticos:** 0,2–2 s; síndrome de West; EEG com hipsarritmia.
+- **Atônicas:** perda abrupta do tônus, quedas; Lennox-Gastaut.
+
+## Crises focais {#crises-focais}
+
+Iniciam-se em região circunscrita de um hemisfério. Subdividem-se em **perceptivas**
+(consciência preservada, frequentemente com auras) e **disperceptivas** (alteração da
+perceptividade, com automatismos). Podem evoluir para **crises tônico-clônicas
+bilaterais**.
+
+**Auras e localização:**
+
+- **Somatossensoriais** (formigamento): córtex somatossensitivo (parietal).
+- **Visuais** (lampejos coloridos): córtex occipital.
+- **Autonômicas** (epigástrica, taquicardia): lobo temporal mesial.
+- **Gustativas/olfatórias:** úncus/região periamigdaliana.
+- **Psíquicas** (déjà vu): região temporomesial.
+
+A **epilepsia do lobo temporal**, frequentemente associada à esclerose hipocampal,
+cursa com auras autonômicas/psíquicas, reação de parada, *staring*, automatismos
+oroalimentares/manuais e postura distônica de um membro.
+
+**Crises focais motoras:** tônicas (córtex motor suplementar/primário), clônicas (giro
+pré-central), versivas (giro frontal médio). A **marcha jacksoniana** (John Hughlings
+Jackson, 1863) caracteriza-se pela propagação da atividade no córtex motor primário,
+podendo evoluir com **paralisia de Todd**.
+
+> **Figura — John Hughlings Jackson (1835–1911).** *(imagem a inserir em `figuras/`)* Descreveu a "marcha jacksoniana" e o "estado sonhador" das crises temporais.
+
+## Considerações finais {#crises-conclusao}
+
+O diagnóstico depende de história clínica detalhada (incluindo relatos de
+testemunhas), EEG interictal e vídeo-EEG. A neuroimagem estrutural e funcional (RM,
+PET) ampliou a capacidade diagnóstica e possibilitou a cirurgia de epilepsia em casos
+refratários.
+
+## Referências {-}
+
+- Lüders H, Acharya J, Baumgartner C, et al. Semiological seizure classification.
+  *Epilepsia.* 1998;39(9):1006-1013. doi:10.1111/j.1528-1157.1998.tb01452.x
+- Turek G, Skjei K. Seizure semiology, localization, and the 2017 ILAE seizure
+  classification. *Epilepsy Behav.* 2022;126:108455. doi:10.1016/j.yebeh.2021.108455
+- Beniczky S, Tatum WO, Blumenfeld H, et al. Seizure semiology: ILAE glossary of
+  terms and their significance. *Epileptic Disord.* 2022;24(3):447-495.
+  doi:10.1684/epd.2022.1430
+- Fisher RS, Cross JH, D'Souza C, et al. Instruction manual for the ILAE 2017
+  operational classification of seizure types. *Epilepsia.* 2017;58(4):531-542.
+  doi:10.1111/epi.13671
+- Yacubian EMT, Kochen S. *Crises Epilépticas.* São Paulo: Leitura Médica; 2014.

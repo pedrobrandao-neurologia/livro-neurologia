@@ -1,0 +1,128 @@
+# Tônus, sinais meníngeos e radiculares {#tonus-meningeos}
+
+## Tônus {#tonus}
+
+O **tônus muscular** é o estado de contração permanente que o músculo apresenta em
+repouso voluntário. É avaliado pela movimentação passiva das articulações,
+observando-se a resistência, a consistência (palpação), a extensibilidade e a
+passividade. Diminuição da resistência com aumento da extensibilidade sugere
+**hipotonia**; aumento da resistência indica **hipertonia**.
+
+Há dois tipos fundamentais de hipertonia:
+
+- **Espasticidade (hipertonia elástica):** aumento da resistência **dependente da
+  velocidade**, associado a lesões do neurônio motor superior, por hiperexcitabilidade
+  do reflexo de estiramento (sinal do canivete).
+- **Hipertonia extrapiramidal (rigidez plástica, "cano de chumbo"):** resistência
+  uniforme, **independente da velocidade**. O **fenômeno da roda denteada** (fenômeno
+  de Negro) decorre de flutuações sucessivas do tônus.
+
+As hipotonias são observadas principalmente nas lesões dos nervos periféricos, do
+cerebelo (ataxias) e em algumas doenças extrapiramidais (coreia).
+
+## Escalas de avaliação da hipertonia {#escalas-tonus}
+
+### Hipertonia espástica {#escalas-espasticidade}
+
+Table: (#tab:ashworth) Escalas de Ashworth e Ashworth Modificada.
+
+| Pontuação | Escala de Ashworth | Escala de Ashworth Modificada |
+|:---:|---|---|
+| 0 | Sem aumento do tônus | Sem aumento do tônus |
+| 1 | Leve aumento, "tranco" à flexão/extensão | Leve aumento, "tranco" seguido de liberação ou resistência mínima no final da ADM |
+| 1+ | — | Leve aumento, "tranco" seguido de resistência mínima em menos da metade da ADM |
+| 2 | Aumento mais acentuado, mas o membro flexiona facilmente | Aumento na maior parte da ADM, mas movido com facilidade |
+| 3 | Considerável aumento, movimento passivo difícil | Considerável aumento, movimento passivo difícil |
+| 4 | Membro rígido em flexão ou extensão | Parte(s) rígida(s) em flexão ou extensão |
+
+A **Escala de Tardieu Modificada (MTS)** diferencia o componente neural
+(espasticidade) das restrições mecânicas, medindo ângulos em velocidades distintas
+(V1, V2, V3): **R1** (ângulo de "tranco" ao alongamento rápido) e **R2** (amplitude
+passiva máxima). A diferença R2 − R1 reflete o componente dinâmico da espasticidade.
+
+Table: (#tab:tardieu) Escala de Tardieu Modificada (MTS).
+
+| Grau | Descrição |
+|:---:|---|
+| 0 | Nenhuma resistência ao longo do movimento passivo |
+| 1 | Leve resistência, sem "tranco" em ângulo específico |
+| 2 | "Tranco" claro em ângulo específico, seguido de liberação |
+| 3 | Clônus fatigável (< 10 s) em ângulo específico |
+| 4 | Clônus infatigável (> 10 s) em ângulo específico |
+| 5 | Articulação imóvel |
+
+### Hipertonia plástica {#escalas-rigidez}
+
+A rigidez em cano de chumbo é avaliada pela **Parte III da MDS-UPDRS**, padrão-ouro
+para sintomas motores do parkinsonismo. A rigidez é pontuada de 0 a 4: grau 1
+(detectada apenas com manobra de ativação), grau 2 (sem ativação, ADM facilmente
+alcançada), grau 3 (evidente, com esforço para ADM completa), grau 4 (grave,
+limitando a ADM).
+
+## Sinais meníngeos {#sinais-meningeos}
+
+1. **Rigidez de nuca:** resistência ou dor à flexão passiva do pescoço. Sinal de
+   maior sensibilidade clínica.
+2. **Sinal de Kernig** (Vladimir Kernig, 1882): com quadril fletido a 90°, a extensão
+   passiva do joelho encontra resistência dolorosa. Análogo ao Lasègue.
+3. **Sinal de Brudzinski cervical** (Józef Brudzinski, 1909): a flexão passiva do
+   pescoço provoca flexão reflexa de joelhos e quadris.
+4. **Sinal de Brudzinski contralateral:** elevação passiva de uma perna estendida
+   provoca flexão reflexa do membro contralateral.
+
+::: {.warn}
+A tríade clássica de meningite bacteriana (febre, rigidez de nuca, alteração do nível
+de consciência) está presente em apenas **44%** dos casos em adultos
+imunocompetentes — nenhum sinal isolado tem sensibilidade ou especificidade
+suficiente para confirmar ou excluir o diagnóstico.
+:::
+
+> **Fotografias — Pesquisa de rigidez de nuca e do sinal de Kernig.** *(imagens a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+## Sinais radiculares {#sinais-radiculares}
+
+O **sinal de Lasègue** (Ernest-Charles Lasègue, 1864) é a manobra de tensão radicular
+mais importante: elevação passiva do membro inferior em extensão completa de joelho,
+em decúbito dorsal. **Positivo** quando reproduz **dor em trajeto radicular
+(ciatalgia) abaixo do joelho**, geralmente entre 30° e 70°.
+
+É fundamental distinguir o **teste de elevação da perna estendida (SLR)** — categoria
+semiotécnica ampla — do **sinal de Lasègue em sentido estrito** (reprodução de dor
+radicular). Dor lombar isolada, glútea ou na coxa **não** constitui Lasègue positivo —
+é o erro de interpretação mais frequente.
+
+A elevação traciona progressivamente as raízes L4, L5 e S1. Quanto **menor** o ângulo
+de positividade (especialmente < 30–40°), **maior** a probabilidade de compressão
+radicular significativa. Sensibilidade elevada (72–97%) mas especificidade modesta
+(26–44%): um Lasègue negativo tem bom valor para excluir compressão radicular (alto
+VPN), mas um positivo isolado não confirma.
+
+**Manobras complementares:**
+
+- **Sinal de Bragard:** dorsiflexão do tornozelo no limiar da dor intensifica a dor
+  radicular, aumentando a especificidade.
+- **Lasègue cruzado:** elevação da perna contralateral reproduz a dor no lado
+  afetado — alta especificidade (~90%) para hérnia mediana/paramediana.
+- **Bowstring (sinal de Cram):** pressão sobre o ciático no sulco poplíteo restaura a
+  dor; alta especificidade.
+- **Teste de Slump:** mobilização neural sequencial (flexão do tronco, flexão
+  cervical, extensão do joelho, dorsiflexão).
+- **Lasègue reverso (Yeoman):** extensão passiva do quadril em decúbito ventral; dor
+  na face anterior da coxa (L2–L4), útil nas radiculopatias L3 e L4.
+
+## Referências {-}
+
+- Thomas KE, Hasbun R, Jekel J, Quagliarello VJ. The diagnostic accuracy of Kernig's
+  sign, Brudzinski's sign, and nuchal rigidity in adults with suspected meningitis.
+  *Clin Infect Dis.* 2002;35(1):46-52. doi:10.1086/340979
+- Forgie SE. The History and Current Relevance of the Eponymous Signs of Meningitis.
+  *Pediatr Infect Dis J.* 2016;35(7):749-751. doi:10.1097/INF.0000000000001152
+- Sheean G, McGuire JR. Spastic hypertonia and movement disorders. *PM R.*
+  2009;1(9):827-833. doi:10.1016/j.pmrj.2009.08.002
+- Ganguly J, Kulshreshtha D, Almotiri M, Jog M. Muscle Tone Physiology and
+  Abnormalities. *Toxins (Basel).* 2021;13(4):282. doi:10.3390/toxins13040282
+- Berthelot JM, Darrieutort-Laffite C, Arnolfo P, et al. Inadequacies of the Lasègue
+  Test... *Joint Bone Spine.* 2021;88(1):105030. doi:10.1016/j.jbspin.2020.06.004
+- Goetz CG, Tilley BC, Shaftman SR, et al. MDS-sponsored revision of the Unified
+  Parkinson's Disease Rating Scale (MDS-UPDRS). *Mov Disord.* 2008;23(15):2129-2170.
+  doi:10.1002/mds.22340

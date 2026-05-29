@@ -1,0 +1,115 @@
+# Sensibilidade {#sensibilidade}
+
+No exame da sensibilidade, pesquisa-se inicialmente a **sensibilidade superficial**
+(tato, sensibilidades térmica e dolorosa) e, em seguida, a **sensibilidade profunda**
+(vibratória, noção das posições segmentares e compressão das massas musculares). É a
+parte mais difícil e menos reprodutível do exame neurológico, por depender quase
+exclusivamente da informação fornecida pelo paciente.
+
+Estímulos para a sensibilidade superficial: atrito com algodão (tato), toque com
+estilete fino (dor), tubos com água quente e fria (térmica).
+
+::: {.note}
+**Princípios do exame sensitivo.** Instruir previamente o paciente; comparar zonas
+anormais com normais simetricamente; delimitar territórios (distribuição neural e
+radicular); pesquisar níveis transversos; comparar um hemicorpo com o outro.
+:::
+
+A **sensibilidade tátil discriminativa** (compasso de Weber) avalia a percepção de
+dois estímulos próximos como separados. A **vibratória** usa diapasão de 128 Hz sobre
+proeminências ósseas, iniciando distalmente. A **noção das posições segmentares**
+(propriocepção) é avaliada movimentando passivamente um segmento (hálux ou polegar) e
+perguntando a posição, com olhos fechados.
+
+A **estereognosia** é a capacidade de reconhecer objetos pela palpação com olhos
+fechados (função do lobo parietal). A **astereognosia** é a incapacidade de
+reconhecê-los apesar de sensibilidade periférica normal (lesão cortical — AVC
+parietal ou síndrome corticobasal). Quando há distúrbio da sensibilidade periférica,
+fala-se em **estereoanestesia**.
+
+> **Figura — Exame da sensibilidade vibratória com diapasão sobre proeminências ósseas.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+## Terminologia das alterações sensitivas {#terminologia-sensitiva}
+
+- **Alestesia:** percepção de estímulo contralateral como ipsilateral (lesão parietal).
+- **Alodinia:** dor por estímulo normalmente não doloroso.
+- **Anestesia / anestesia dolorosa:** ausência de sensação / dor espontânea em área
+  anestesiada (herpes-zóster).
+- **Disestesia:** sensações desagradáveis a estímulos comuns.
+- **Hiperestesia / hipoestesia:** sensibilidade aumentada / reduzida.
+- **Hiperalgesia:** resposta exagerada a estímulos dolorosos.
+- **Parestesias:** sensações espontâneas (formigamento, queimação).
+- **Palanestesia (apalestesia):** perda da percepção vibratória.
+- **Artrestesia / anartrestesia:** percepção / perda do movimento e posição articular.
+- **Tigmestesia:** sensibilidade tátil superficial.
+- **Topestesia (topognosia):** discriminação tátil fina e localizada.
+
+## Distribuição dos dermátomos {#dermatomos}
+
+Nos **membros superiores**: C6 corresponde ao polegar; C7 ao 2º, 3º e parte do 4º
+dedos; C8 à porção restante do 4º e ao 5º dedo. C4 na região clavicular, sucedido por
+T2. **T4** na linha intermamilar, **T6–T7** na margem costal inferior, **T10** na
+região umbilical. Nos **membros inferiores**: L1 na região inguinal; L4 na face medial
+do hálux; L5 no dorso e região plantar medial; S1 na face lateral do pé.
+
+> **Figura — Inervação sensitiva: dermátomos.** *(imagem a inserir em `figuras/`)* Fonte: adaptado de Wikimedia Commons, licença Creative Commons.
+
+## Padrões de perda sensitiva e interpretação {#padroes-perda}
+
+- **Nervo único** (mediano, ulnar, fibular): neuropatias compressivas (diabetes,
+  artrite reumatoide, hipotireoidismo).
+- **Raízes** (C5–C7; L4–S1): perda em dermátomos. Compressão da cauda equina:
+  **anestesia em sela**.
+- **Polineuropatia:** padrão "luva e bota", distal e simétrico (diabetes, alcoolismo).
+- **Mononeurite múltipla:** múltiplas distribuições assimétricas (vasculites).
+- **Lesão medular transversa completa:** perda de todas as modalidades abaixo do nível.
+- **Hemissecção medular (Brown-Séquard):** propriocepção/vibração ipsilateral, dor/
+  temperatura contralateral.
+- **Lesão centromedular (siringomielia):** perda dissociada de dor/temperatura no nível.
+- **Colunas posteriores:** propriocepção e vibração; **síndrome espinhal anterior:**
+  dor e temperatura.
+- **Tronco encefálico (Wallenberg):** perda alternada — face ipsilateral, corpo
+  contralateral.
+- **Tálamo (Dejerine-Roussy):** perda hemicorporal de todas as modalidades, com dor
+  central.
+- **Lobo parietal:** déficits discriminativos (astereognosia, extinção, discriminação
+  de dois pontos).
+
+A **perda sensitiva funcional** caracteriza-se por padrões inconsistentes e não
+anatômicos (limites em dobras cutâneas, variação entre momentos, preservação de
+tarefas complexas como estereognosia).
+
+## Anatomofisiologia dos sistemas somatossensitivos {#anatomofisiologia-sensitiva}
+
+Receptores cutâneos: corpúsculos de Meissner, discos de Merkel, corpúsculos de
+Pacini, terminações livres (nociceptivos e térmicos). Profundos: fusos musculares e
+órgãos tendinosos de Golgi (propriocepção).
+
+Fibras periféricas: **Aα** (72–120 m/s, propriocepção), **Aβ** (30–72 m/s, tato leve),
+**Aδ** e **C** (dor e temperatura).
+
+Duas vias principais:
+
+- **Coluna dorsal–lemnisco medial:** tato discriminativo e propriocepção consciente.
+  Fibras ascendem ipsilateralmente (fascículos grácil e cuneiforme), sinapse nos
+  núcleos bulbares, cruzam formando o lemnisco medial, projetam ao núcleo VPL do
+  tálamo.
+- **Espinotalâmica:** dor e temperatura. Fibras Aδ e C fazem sinapse na substância
+  gelatinosa, cruzam a linha média e ascendem pelo trato espinotalâmico ao tálamo.
+
+No tálamo, ambas convergem para o **VPL**, projetando ao córtex somatossensitivo
+primário (S1, giro pós-central; áreas 3b, 1 — tato; 3a — propriocepção), depois S2 e
+áreas associativas parietais (5 e 7). A nocicepção envolve estruturas límbicas
+(ínsula, amígdala, cíngulo), explicando a dimensão emocional da dor.
+
+## Referências {-}
+
+- Williams D, Conn J, Talley N, Attia J. Reviewing the evidence base for the
+  peripheral sensory examination. *Int J Clin Pract.* 2014;68(6):756-760.
+  doi:10.1111/ijcp.12389
+- Lefaucheur JP, Créange A. Neurophysiological testing correlates with clinical
+  examination according to fibre type involvement and severity in sensory neuropathy.
+  *J Neurol Neurosurg Psychiatry.* 2004;75(3):417-422. doi:10.1136/jnnp.2003.019208
+- Abraham A, Alabdali M, Alsulaiman A, et al. The sensitivity and specificity of the
+  neurological examination in polyneuropathy patients. *PLoS One.* 2017;12(3):e0171597.
+  doi:10.1371/journal.pone.0171597

@@ -1,0 +1,169 @@
+# Equilíbrio estático e marcha {#equilibrio-marcha}
+
+Para que qualquer pessoa se mantenha de pé e equilibrada, é necessária a
+integridade funcional de pelo menos dois dos três grandes sistemas aferentes
+envolvidos no controle postural: a **propriocepção** (sensibilidade profunda), o
+**sistema vestibular** e a **visão**. Esses sistemas operam de forma redundante e
+complementar: quando um é comprometido, os demais podem compensar parcialmente a
+perda. Por isso a supressão da visão (fechar os olhos) funciona como manobra
+provocativa no exame do equilíbrio.
+
+Além dos sistemas aferentes, o controle postural requer a integridade do sistema
+efetor motor, do cerebelo (coordenação e temporização dos ajustes) e dos núcleos
+da base (programas posturais automáticos). O equilíbrio depende de toda a cadeia:
+aferência → integração central → eferência motora.
+
+::: {.warn}
+**Atenção ao sistema cardiovascular e autonômico.** A **hipotensão ortostática**
+(queda ≥ 20 mmHg na sistólica ou ≥ 10 mmHg na diastólica em até 3 minutos de
+ortostatismo) é causa frequente e tratável de instabilidade, especialmente em
+idosos e neuropatias autonômicas. A verificação da pressão arterial em decúbito e
+ortostatismo deve fazer parte da avaliação de qualquer paciente com
+desequilíbrio, tontura ou queda.
+:::
+
+Os pacientes frequentemente confundem **vertigem** (ilusão de movimento),
+**lipotímia** (sensação de desmaio iminente) e **desequilíbrio** (instabilidade
+postural) — a anamnese cuidadosa é essencial para esclarecer a natureza da queixa.
+
+## Semiotécnica do equilíbrio estático {#romberg}
+
+### Sinal de Romberg {#sinal-romberg}
+
+**Semiotécnica.** Paciente de pé, pés juntos, braços ao longo do corpo, olhando
+para frente. Observa-se a estabilidade com olhos abertos; em seguida, solicita-se
+que feche os olhos por 30 a 60 segundos. O examinador deve posicionar-se próximo,
+pronto para amparar.
+
+**Interpretação.** O sinal de Romberg é **presente** quando há instabilidade
+significativamente maior com os olhos fechados do que abertos — ou seja, quando a
+supressão da visão desmascara um déficit proprioceptivo ou vestibular compensado
+visualmente. Oscilações leves são fisiológicas; o sinal exige diferença clara entre
+as duas condições. Indica comprometimento da via proprioceptiva (cordões
+posteriores, nervos periféricos de fibras grossas, gânglios das raízes dorsais).
+Classicamente associado à *tabes dorsalis*.
+
+**Romberg sensibilizado (tandem).** Um pé à frente do outro, reduzindo a base — mais
+sensível para déficits sutis.
+
+::: {.note}
+**O que o Romberg NÃO é.** O paciente com síndrome cerebelar apresenta instabilidade
+com base reduzida **já com os olhos abertos** — não piora significativamente ao
+fechar os olhos. Instabilidade de base com olhos abertos sugere origem cerebelar,
+não constitui sinal de Romberg presente.
+:::
+
+> **Figura — Pesquisa do sinal de Romberg.** *(imagem a inserir em `figuras/`)*
+
+> **Figura — Moritz H. Romberg.** *(imagem a inserir em `figuras/`)* Autor do *Lehrbuch der Nervenkrankheiten des Menschen* (1840–1846), considerado o primeiro tratado sistemático de neurologia da Europa.
+
+**Romberg na disfunção vestibular.** Na disfunção vestibular periférica aguda, a
+tendência à queda é **lateralizada** (para o lado da lesão), após breve latência
+("Romberg labiríntico"), diferindo do Romberg proprioceptivo (oscilação
+multidirecional).
+
+## Pulsões posturais {#pulsoes}
+
+A **pulsão** designa a tendência a cair em direção específica: lateropulsão,
+retropulsão ou anteropulsão. A lateropulsão é característica das lesões vestibulares
+periféricas e da síndrome de Wallenberg. A retropulsão é frequente nos
+parkinsonismos e lesões do verme cerebelar. A anteropulsão pode ocorrer na paralisia
+supranuclear progressiva.
+
+## Testes de instabilidade postural reativa {#instabilidade-reativa}
+
+### Pull test (teste de retropulsão) {#pull-test}
+
+Componente formal da MDS-UPDRS parte 3 (item 3.12). O examinador posiciona-se atrás
+do paciente e aplica um puxão firme e súbito nos ombros, suficiente para deslocar o
+centro de gravidade.
+
+- **Normal:** recupera-se com 1–2 passos para trás.
+- **Anormal leve:** 3–5 passos, mas recupera sem auxílio.
+- **Anormal moderado:** cairia se não fosse amparado.
+- **Anormal grave:** tende a cair espontaneamente ou não fica de pé sem apoio.
+
+> **Figura — Pull test ou teste da retropulsão.** *(imagem a inserir em `figuras/`)*
+
+### Push and Release Test {#push-release}
+
+Variação proposta por Jacobs et al. (2006), considerada mais reprodutível. O
+paciente faz força para trás contra as mãos do examinador na região escapular;
+quando o apoio é subitamente retirado, avalia-se a recuperação do equilíbrio.
+
+Quando os distúrbios do equilíbrio estático impedem a manutenção da posição
+ortostática, define-se **astasia**.
+
+## Fisiologia da marcha (equilíbrio dinâmico) {#fisiologia-marcha}
+
+Alterações na marcha elevam a mortalidade (quedas, descondicionamento) e associam-se
+a maior risco de transtornos neurocognitivos. Cerca de 40% das pessoas com 80 anos
+ou mais sofrem ao menos uma queda por ano. A marcha é uma sequência repetitiva de
+movimentos dos membros inferiores que propulsam o corpo para frente mantendo a
+estabilidade — comportamento motor complexo, regulado por atenção e função
+executiva. Destaca-se o papel do **núcleo pedúnculo-pontino (PPN)** no controle
+supraespinhal da locomoção.
+
+### Ciclos da marcha {#ciclos-marcha}
+
+O ciclo completo divide-se em fase de **apoio** (62% do tempo; duplo apoio inicial,
+apoio simples, duplo apoio final) e fase de **balanço** (38%; inicial, médio,
+terminal). O duplo apoio corresponde a ~20% do tempo e diminui com a velocidade,
+sendo eliminado na corrida.
+
+Table: (#tab:indices-marcha) Índices espaciais e temporais da marcha humana.
+
+| Fator | Definição |
+|---|---|
+| Velocidade | Metros por segundo; normal ≥ 1 m/s |
+| Cadência | Número de passos por minuto |
+| Comprimento do passo | Distância na fase de balanço de um membro |
+| Comprimento da marcha | Distância em um ciclo (dois passos) |
+| Largura do passo | Distância entre os pés (maléolos mediais) |
+| Altura do passo | Distância máxima entre planta e solo no balanço |
+| Simetria | Razão entre comprimentos dos passos das duas pernas |
+| Coordenação | Tempo de ativação de uma perna em relação à outra |
+| Variação espaço-temporal | Coeficiente de variação dos índices |
+
+### Semiotécnica e Timed Up and Go {#tug}
+
+A análise da marcha avalia índices espaço-temporais, mecanismos compensatórios,
+alterações nos membros inferiores, perda da automaticidade e disfunções do controle
+cortical. O **Timed Up and Go Test (TUG)** cronometra o tempo para levantar de uma
+cadeira, caminhar 3 metros, virar, retornar e sentar; tempo > 13,5 segundos indica
+risco de queda e dificuldade de mobilidade. Útil também para detectar *freezing* na
+doença de Parkinson.
+
+## Transtornos da marcha {#transtornos-marcha}
+
+- **Marcha hemiplégica (helicópode, ceifante):** postura hemiplégica com membro
+  inferior em equinismo; movimento circular helicoidal a cada passo.
+- **Marcha paraplégica (espástica):** arrasta os membros inferiores com adução das
+  coxas (típica da síndrome de Little).
+- **Marcha escarvante:** paralisia do nervo fibular; pé caído pousado pela ponta.
+  Lembra a marcha do cavalo.
+- **Marcha talonante (atáxica sensitiva):** lesão do cordão posterior; base alargada,
+  olhar fixo no solo, calcanhar batendo fortemente.
+- **Marcha cerebelar (atáxica motora, ebriosa):** desvios para ambos os lados, base
+  alargada (disbasia).
+- **Marcha parkinsoniana:** postura rígida, passos curtos, balanço dos braços
+  reduzido assimetricamente, virada em bloco.
+- **Marcha "à petit pas":** parkinsonismo vascular microangiopático.
+- **Marcha miopática (anserina):** gingada, com movimentação dos quadris,
+  hiperlordose e escápula alada.
+
+## Referências {-}
+
+- Javalkar V, Khan M, Davis DE. Clinical manifestations of cerebellar disease.
+  *Neurol Clin.* 2014;32(4):871-879. doi:10.1016/j.ncl.2014.07.012
+- Bodranghien F, Bastian A, Casali C, et al. Consensus Paper: Revisiting the
+  Symptoms and Signs of Cerebellar Syndrome. *Cerebellum.* 2016;15(3):369-391.
+  doi:10.1007/s12311-015-0687-3
+- Scherokman B, Cannard K, Miller JQ. What should a graduating medical student know
+  about neurology? *Neurology.* 1994;44(6):1170-1176. doi:10.1212/wnl.44.6.1170
+- Van Gerpen JA. Office assessment of gait and station. *Semin Neurol.*
+  2011;31(1):78-84. doi:10.1055/s-0031-1271309
+- Tarolli CG, Lizarraga KJ. Approach to the Patient with Gait Disturbance. *Semin
+  Neurol.* 2021;41(6):717-730. doi:10.1055/s-0041-1726355
+- Margolesky J, Singer C. How tandem gait stumbled into the neurological exam: a
+  review. *Neurol Sci.* 2018;39(1):23-29. doi:10.1007/s10072-017-3108-1

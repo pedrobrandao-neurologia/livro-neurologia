@@ -1,0 +1,59 @@
+# Distúrbios da palavra (linguagem) e da articulação da fala {#linguagem-fala}
+
+Chamamos de **linguagem** ao conjunto de meios através dos quais os seres se
+comunicam; a **palavra** é o de maior importância. Trataremos das **disartrias** e
+das **disfasias (afasias)**.
+
+As **disartrias** são defeitos secundários ao acometimento neurológico das estruturas
+responsáveis pela articulação da palavra (por exemplo, dificuldade para falar por
+paralisia da língua). Em geral, são determinadas por paralisias de nervos cranianos
+bulbo-pontinos, por lesão nuclear ou supranuclear.
+
+A **afasia** é um distúrbio da palavra causado por lesão cerebral que envolve o centro
+de produção ou de compreensão da palavra. Na maioria das pessoas destras, esses
+centros localizam-se no **hemisfério esquerdo** (dominante).
+
+## Afasia de expressão (Broca) {#afasia-broca}
+
+Usualmente por lesão no lobo frontal (giro frontal inferior). O paciente é **não
+fluente**: fala telegráfica, com frases curtas, usando apenas substantivos; às vezes
+não emite palavra. A compreensão pode estar levemente comprometida. Não consegue
+repetir; tem dificuldade com a escrita, mas pode ler satisfatoriamente.
+
+## Afasia de compreensão (Wernicke) {#afasia-wernicke}
+
+Lesão na parte posterior do giro temporal superior esquerdo. A **compreensão está
+gravemente comprometida**, enquanto a **fluência está preservada** — fala
+ininteligível, com circunlóquios, parafasias e neologismos (**jargonofasia**).
+Dificuldades para repetição, denominação (anomia), escrita e leitura.
+
+## Outros tipos de afasia {#outras-afasias}
+
+- **Afasia global (mista):** combina Broca e Wernicke; tipo mais comum; lesões
+  extensas no território da artéria cerebral média esquerda, com hemiplegia direita.
+- **Afasia de condução** (~10% ou menos): interrupção do **fascículo arqueado**;
+  palavra fluente com parafasias, boa compreensão, **incapacidade severa para a
+  repetição**.
+- **Afasias transcorticais (motora ou sensitiva):** lesões na confluência das áreas de
+  Broca e Wernicke; a **repetição fica preservada**, enquanto falha a expressão ou a
+  compreensão.
+
+## Distúrbios da leitura e escrita {#leitura-escrita}
+
+Quase sempre presentes nas afasias. Por vezes sobressaem: **agrafia pura** (região
+parassagital do lobo parietal esquerdo); **alexia com agrafia** (giro angular
+esquerdo); **alexia pura** (rara, com hemianopsia homônima direita, por lesão
+occipital esquerda com envolvimento do corpo caloso).
+
+## Referências {-}
+
+- Hoffmann M, Chen R. The spectrum of aphasia subtypes and etiology in subacute
+  stroke. *J Stroke Cerebrovasc Dis.* 2013;22(8):1385-1392.
+  doi:10.1016/j.jstrokecerebrovasdis.2013.04.017
+- Sinanović O, Mrkonjić Z, Zukić S, et al. Post-stroke language disorders. *Acta Clin
+  Croat.* 2011;50(1):79-94.
+- Cherney LR. Aphasia, alexia, and oral reading. *Top Stroke Rehabil.* 2004;11(1):22-36.
+  doi:10.1310/VUPX-WDX7-J1EU-00TB
+- Silveri MC, Pravatà E, Brita AC, et al. Primary progressive aphasia: linguistic
+  patterns and clinical variants. *Brain Lang.* 2014;135:57-65.
+  doi:10.1016/j.bandl.2014.05.004

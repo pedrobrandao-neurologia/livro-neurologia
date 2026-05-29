@@ -1,0 +1,106 @@
+# Coma: o paciente inconsciente {#coma}
+
+O exame neurológico de pacientes em estupor ou coma, embora limitado, fornece
+informações consideráveis e é relativamente simples. A observação inicial sem
+interferência revela posturas predominantes, movimentos espontâneos assimétricos,
+posição da cabeça e dos olhos, e o ritmo, profundidade e frequência da respiração.
+
+## Avaliação da responsividade {#responsividade}
+
+Aplicam-se estímulos progressivamente mais vigorosos: chamado pelo nome, comandos
+verbais, e estímulos dolorosos (pressão supraorbital, esternal, no leito ungueal). A
+vocalização pode persistir no estupor, sendo o primeiro sinal a se perder no coma.
+Careteamento e retirada dos membros sugerem integridade das vias corticobulbar e
+corticoespinhal.
+
+## Meningismo e hemiplegia {#meningismo-coma}
+
+O **meningismo** causa resistência à flexão passiva do pescoço (mas não à extensão,
+rotação ou inclinação). A **hemiplegia** é revelada pela falta de movimentos
+espontâneos e por movimentos protetores inadequados em resposta a estímulos
+dolorosos.
+
+## Reações pupilares {#pupilas-coma}
+
+Avalia-se tamanho, simetria e reatividade. A **pupila de Hutchinson** (unilateral
+dilatada e não reativa) indica compressão do III nervo por herniação uncal. A perda
+da reatividade precede a dilatação. Pupilas mióticas reativas sugerem etiologia
+metabólica/farmacológica; lesões pontinas dorsais causam miose quase máxima. A
+**dilatação farmacológica** (atropina) imita a pupila de Hutchinson — a pilocarpina a
+1% não contrai a pupila dilatada farmacologicamente. A **síndrome de Horner** (miose,
+ptose, anidrose) localiza dano à via oculossimpática.
+
+## Movimentos oculares e reflexos vestíbulo-oculares {#olhos-coma}
+
+Desvios conjugados: lesões frontais desviam os olhos **para o lado da lesão**; lesões
+pontinas, para o lado oposto. O **reflexo vestíbulo-ocular** (olhos de boneca), quando
+preservado, indica integridade do tronco (mesencéfalo e ponte tegmentar).
+
+## Padrões respiratórios {#respiracao-coma}
+
+A respiração de **Cheyne-Stokes** ocorre em lesões supratentoriais maciças, lesões
+bilaterais profundas e perturbações metabólicas leves. Lesões do tronco inferior
+causam hipoventilação neurogênica central.
+
+## Escalas clínicas {#escalas-coma}
+
+Table: (#tab:glasgow) Escala de Coma de Glasgow.
+
+| Componente | Pontos | Descrição |
+|---|:---:|---|
+| Ocular | 4 | Abertura espontânea |
+| | 3 | Abertura ao comando verbal |
+| | 2 | Abertura à dor |
+| | 1 | Sem abertura |
+| Motora | 6 | Obedece comandos |
+| | 5 | Localiza a dor |
+| | 4 | Retirada à dor |
+| | 3 | Flexão à dor |
+| | 2 | Extensão à dor |
+| | 1 | Sem resposta motora |
+| Verbal | 5 | Orientado |
+| | 4 | Confuso |
+| | 3 | Palavras inapropriadas |
+| | 2 | Sons incompreensíveis |
+| | 1 | Sem resposta verbal |
+
+Table: (#tab:four) Escore FOUR (Full Outline of UnResponsiveness).
+
+| Componente | Pontos | Descrição |
+|---|:---:|---|
+| Ocular | 4 | Pálpebras abertas, acompanha/pisca ao comando |
+| | 3 | Abertas, mas não acompanha |
+| | 2 | Abrem à voz alta |
+| | 1 | Abrem à dor |
+| | 0 | Permanecem fechadas à dor |
+| Motora | 4 | Joinha, punho cerrado ou sinal de paz |
+| | 3 | Localiza a dor |
+| | 2 | Flexão à dor |
+| | 1 | Extensão à dor |
+| | 0 | Sem resposta / status mioclônico |
+| Tronco | 4 | Reflexos pupilares e corneais presentes |
+| | 3 | Uma pupila dilatada e fixa |
+| | 2 | Reflexos pupilares ou corneais ausentes |
+| | 1 | Reflexos pupilares e corneais ausentes |
+| | 0 | Reflexos pupilares, corneais e de tosse ausentes |
+| Respiração | 4 | Não intubado, padrão regular |
+| | 3 | Não intubado, Cheyne-Stokes |
+| | 2 | Não intubado, irregular |
+| | 1 | Acima da frequência do ventilador |
+| | 0 | Na frequência do ventilador ou abaixo |
+
+## Referências {-}
+
+- Brich J, Steiert M, Rijntjes M. The essential neurological examination of the
+  unconscious patient in the emergency room. *Brain Behav.* 2018;8(9):e01097.
+  doi:10.1002/brb3.1097
+- Huff JS, Stevens RD, Weingart SD, Smith WS. Emergency neurological life support:
+  approach to the patient with coma. *Neurocrit Care.* 2012;17 Suppl 1:S54-S59.
+  doi:10.1007/s12028-012-9755-4
+- Kondziella D, Bender A, Diserens K, et al. European Academy of Neurology guideline
+  on the diagnosis of coma and other disorders of consciousness. *Eur J Neurol.*
+  2020;27(5):741-756. doi:10.1111/ene.14151
+- Wijdicks EF, Bamlet WR, Maramattom BV, et al. Validation of a new coma scale: The
+  FOUR score. *Ann Neurol.* 2005;58(4):585-593. doi:10.1002/ana.20611
+- Teasdale G, Jennett B. Assessment of coma and impaired consciousness. *Lancet.*
+  1974;2(7872):81-84. doi:10.1016/s0140-6736(74)91639-0

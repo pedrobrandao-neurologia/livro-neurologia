@@ -1,0 +1,96 @@
+# Exame físico do paciente com cefaleia e algias craniofaciais {#cefaleia}
+
+*Luciana Mendonça Barbosa*
+
+## Introdução {#cefaleia-introducao}
+
+As cefaleias estão entre as queixas mais frequentes nos pronto-atendimentos e
+ambulatórios de clínica médica e neurologia geral, e fazem parte das doenças que mais
+cursam com anos vividos com incapacidade no Brasil e no mundo. A maior parte dos
+pacientes é portadora de quadro crônico primário, mas a cefaleia pode ser sintoma de
+doenças potencialmente graves — trombose venosa cerebral, vasculites,
+meningoencefalites ou hipertensão intracraniana idiopática.
+
+A maioria dos pacientes **não** necessita de exames complementares. Em um grupo
+restrito, com **sinais de alarme** para quadros secundários, lança-se mão de exames
+direcionados. A história clínica deve caracterizar o quadro doloroso e pesquisar
+sinais de alarme; o exame físico complementa a história e auxilia na identificação de
+cefaleias secundárias.
+
+Table: (#tab:snoop) Sinais de alerta para cefaleia secundária (mnemônico "SNOOPPPP").
+
+| Mnemônico | Sinais e sintomas | Exemplos de etiologia |
+|---|---|---|
+| S (*Systemic*) | Sinais sistêmicos: toxemia, rigidez de nuca, febre, rash | Coagulopatia, neoplasia, HIV, meningite, sinusite |
+| N (*Neurologic*) | Déficits focais, edema de papila, crise, alteração da consciência | HIC, trombose venosa, vasculites |
+| O (*Older*) | Início após os 50 anos | Arterite temporal, lesões expansivas |
+| O (*Onset*) | Início súbito, primeira ou recente, dor cervical súbita | HSA, trombose venosa, dissecção arterial |
+| P (*Pattern*) | Mudança de padrão, progressiva ou refratária | Doenças vasculares, inflamatórias, neoplasias |
+| P (*Postural*) | Piora em decúbito (HIC) ou em ortostase (hipotensão liquórica) | HIC idiopática, fístula liquórica |
+| P (*Precipitated*) | Precipitada por esforço/Valsalva | HSA, dissecção, vasoespasmo, hidrocefalia |
+| P (*Papilledema*) | Edema de papila | HIC idiopática ou primária |
+
+Além do exame neurológico completo (nervos cranianos, fundo de olho, sensibilidade,
+força, coordenação, equilíbrio e reflexos), avaliam-se estruturas cranianas e
+cervicais por inspeção, palpação, percussão e ausculta.
+
+## Inspeção {#cefaleia-inspecao}
+
+Inicia-se pela pesquisa de alterações cutâneas: erupções malares/discoides ou eritema
+fotossensível (lúpus); livedo reticular/racemoso (anticorpo antifosfolípide); nódulos
+reumatoides; pele aveludada e hiperelástica (Ehlers-Danlos, fator de risco para
+dissecção arterial); cicatrizes (herpes-zóster, traumas, cirurgias — dores
+neuropáticas).
+
+**Inspeção da cavidade oral:** alterações da oclusão e da articulação
+temporomandibular; linha alba e desgaste dentário (bruxismo); úlceras orais (doença de
+Behçet). **Inspeção cervical** (estática e dinâmica): posição da cabeça, desvios e
+amplitude de movimento — alterações sugerem cefaleia cervicogênica.
+
+## Palpação {#cefaleia-palpacao}
+
+Pesquisam-se sinais de disfunção temporomandibular, hipersensibilidade nas saídas dos
+ramos trigeminais e occipitais, e dores miofasciais.
+
+- **Articulação temporomandibular:** desvios, limitações, sinais flogísticos.
+- **Saída dos nervos periféricos:** supraorbital, supratroclear, infraorbital,
+  mentonianos, auriculotemporal, occipital maior e menor.
+- **Pontos-gatilho miofasciais:** banda tensa palpável e hipersensível; *ativo* quando
+  a dor referida é reconhecida como familiar, *latente* quando não.
+- **Artérias temporais:** espessamento ou redução de pulsatilidade (arterite de células
+  gigantes).
+- **Apófises posteriores da coluna.**
+
+> **Figuras — ramos dos nervos trigeminais e occipitais; pontos-gatilho miofasciais nos músculos trapézio, esternocleidomastoideo, temporal, semiespinhais e suboccipitais.** *(imagens a inserir em `figuras/`)* Fonte: acervo da autora; adaptado de Travell, Simons & Simons.
+
+## Percussão {#cefaleia-percussao}
+
+A percussão dos seios frontais e maxilares pode sugerir doença dos seios paranasais
+se provocar dor.
+
+## Ausculta {#cefaleia-ausculta}
+
+- **Artérias carótidas:** sopros sugerem ateromatose, vasculite ou dissecção.
+- **Articulações temporomandibulares:** cliques durante abertura/fechamento.
+- **Crânio (temporal, occipital, ocular):** sopros sugerem alto débito, anemia grave
+  ou doenças vasculares (malformação arteriovenosa, fístula carótido-cavernosa,
+  hemangioma).
+
+## Referências {-}
+
+1. Rasmussen B. Epidemiology of Headache. *Cephalalgia.* 1995;15(1):44-67.
+2. Bigal ME, Bordini CA, Speciali JG. Etiology and Distribution of Headaches in Two
+   Brazilian Primary Care Units. *Headache.* 2000;40(3):241-247.
+3. Friedman BW, Lipton RB. Headache Emergencies: Diagnosis and Management. *Neurol
+   Clin.* 2012;30(1):43-59.
+4. Oliveira A, Bensenor I, Goulart A, et al. Socioeconomic and geographic inequalities
+   in headache disability in Brazil. *Headache.* 2023;63(1):114-126.
+5. Dodick D. Pearls: Headache. *Semin Neurol.* 2010;30(1):74-81.
+6. Martin VT. The Diagnostic Evaluation of Secondary Headache Disorders. *Headache.*
+   2011;51(2):346-352.
+7. Speciali J. Protocolo Nacional para Diagnóstico e Manejo das Cefaleias nas Unidades
+   de Urgência do Brasil — 2018. *Soc Bras Cefaleia.* 2018;1(1):3-14.
+8. Lefel N, van Suijlekom H, Cohen SPC, et al. Cervicogenic headache and occipital
+   neuralgia. *Pain Pract.* 2024.
+9. Simons DG, Travell JG, Simons LS. *Travell, Simons & Simons' Myofascial Pain and
+   Dysfunction: The Trigger Point Manual.* 2nd ed. Williams & Wilkins; 1998.

@@ -1,0 +1,259 @@
+# Nervos cranianos {#nervos-cranianos}
+
+Do ponto de vista anatômico e embriológico, os nervos cranianos são estruturas
+originadas, em sua maioria, no tronco cerebral ou que aí terminam (eferentes ou
+aferentes), em grupamentos celulares chamados núcleos. Classicamente são descritos
+doze nervos cranianos.
+
+Table: (#tab:pares-cranianos) Nervos cranianos e funções principais.
+
+| Nº | Nervo | Funções principais |
+|:---:|---|---|
+| I | Olfatório | Olfato |
+| II | Óptico | Visão |
+| III | Oculomotor | Movimentos oculares e abertura da pálpebra |
+| IV | Troclear | Move o olho para baixo e para dentro |
+| V | Trigêmeo | Sensação facial e mastigação |
+| VI | Abducente | Move o olho lateralmente |
+| VII | Facial | Mímica facial e paladar |
+| VIII | Vestíbulo-coclear | Audição e equilíbrio |
+| IX | Glossofaríngeo | Sensações da faringe e paladar |
+| X | Vago | Funções do coração, pulmões e digestivo |
+| XI | Acessório | Move pescoço e ombros |
+| XII | Hipoglosso | Move a língua |
+
+A rigor, os nervos olfatório e óptico não são verdadeiros nervos cranianos (não
+possuem núcleos no tronco), sendo prolongamentos do SNC, mas são incluídos por
+tradição.
+
+> **Figuras — anatomia do tronco encefálico (vistas anterior e posterior), nervos cranianos numerados e estruturas do tecto/epitálamo.** *(imagens a inserir em `figuras/`)* Fonte: FM-UnB, Laboratório de Anatomia; adaptado de Parent A, *Carpenter's Human Neuroanatomy*, 9th ed.
+
+## Nervo olfatório (I) {#nc-olfatorio}
+
+A via olfatória inicia-se no epitélio olfativo (concha nasal superior), com neurônios
+bipolares cujos axônios amielínicos atravessam a lâmina cribriforme até os bulbos
+olfativos, onde fazem sinapse nos glomérulos com células mitrais e tufosas. As fibras
+projetam-se ao córtex piriforme, hipocampo, amígdala e hipotálamo, **sem passagem
+pelo tálamo** — característica única. O epitélio olfativo possui capacidade de
+regeneração.
+
+**Exame psicofísico.** Baseia-se em impressões subjetivas e testes objetivos com
+baterias de odores: Sniffin' Sticks, CCCRC, UPSIT e o brasileiro **MultiScent-20**.
+Examinar uma narina de cada vez com substâncias suaves não irritantes. Termos:
+**hiposmia/anosmia**, **hiperosmia**, **cacosmia** (alucinação de cheiro
+desagradável), **parosmia** (confusão de odores). A anosmia aguda foi frequente na
+COVID-19 e é comum nos estágios prodrômicos de doença de Parkinson, demência com
+corpos de Lewy e Alzheimer.
+
+> **Figuras — estruturas da fossa craniana anterior; testes psicofísicos de olfato (CCCRC, UPSIT, Sniffin' Sticks); dispositivo MultiScent-20.** *(imagens a inserir em `figuras/`)*
+
+## Nervo óptico (II) {#nc-optico}
+
+Via essencial do SNC, conecta a retina ao cérebro. Bastonetes (visão noturna,
+periférica, movimento) e cones (acuidade central, cores). O nervo óptico tem ~5 cm,
+em quatro segmentos (intraocular, intraorbital, intracanalicular, intracraniano). A
+via: nervo óptico → quiasma → trato óptico → corpo geniculado lateral → radiações
+ópticas → córtex calcarino (área 17). As fibras inferiores formam a **alça de Meyer**.
+
+**Semiotécnica:** acuidade visual, campo visual e fundo de olho.
+
+**Acuidade visual.** Tabela de Snellen; testes improvisados (contagem de dedos);
+anamnese sobre erros refrativos.
+
+**Visão de cores.** Teste de Ishihara (1917, deficiências vermelho-verde); Teste de
+Farnsworth (discriminação cromática).
+
+**Campo visual.** Teste de confrontação (triagem); perimetria cinética (Goldmann);
+perimetria estática automatizada (Humphrey, padrão-ouro). Defeitos: **escotomas**,
+**hemianopsias** (homônima — lesão do trato óptico contralateral; bitemporal — lesão
+do quiasma) e **quadrantanopsias** (radiações ópticas).
+
+**Fundoscopia.** Avalia disco óptico, vasos, retina, mácula. O **edema de papila**
+pode ser inflamatório (neurites — perda visual precoce, hemorragias/exsudatos
+peripapilares) ou de estase (hipertensão intracraniana — borramento das margens,
+dilatação venosa, abolição do pulso venoso, acuidade preservada mesmo avançada).
+Outras alterações: atrofia óptica, hemorragias, exsudatos algodonosos, descolamento
+de retina, drusas.
+
+> **Figuras — escala de Snellen; placa de Ishihara; teste de Farnsworth; exame do campo visual por confrontação; campos do Humphrey; vias ópticas e defeitos de campo; edema de papila.** *(imagens a inserir em `figuras/`)*
+
+## Nervos oculomotor, troclear e abducente (III, IV, VI) {#nc-oculomotores}
+
+Os músculos retos originam-se no **anel de Zinn**. O **nervo oculomotor (III)** inerva
+elevador da pálpebra, reto interno, oblíquo inferior, reto superior e reto inferior,
+além das fibras parassimpáticas (núcleo de Edinger-Westphal) para a pupila. O **nervo
+troclear (IV)** — único que emerge dorsalmente do tronco e tem o trajeto intracraniano
+mais longo — inerva o oblíquo superior. O **nervo abducente (VI)**, com trajeto pelo
+canal de Dorello, inerva o reto lateral.
+
+**Semiotécnica.** Examinam-se os movimentos correspondentes a cada músculo, um olho
+de cada vez. A paralisia gera estrabismo e **diplopia**. A paralisia do elevador causa
+**ptose palpebral**. O desvio conjugado lateral é mediado por centros corticais
+(frontal) e pontinos: nas lesões corticais, os olhos desviam para o lado da lesão;
+nas pontinas, para o lado hemiplégico. A paralisia do olhar vertical para cima
+configura a **síndrome de Parinaud** (lesão da placa quadrigeminal).
+
+**Reflexos pupilares.** O **fotomotor** (aferência óptica, eferência oculomotora via
+Edinger-Westphal) contrai a pupila à luz; o **consensual** contrai a pupila
+contralateral; o **de acomodação** acompanha a fixação em objetos próximos.
+Avaliar diâmetro, forma e simetria (**anisocoria** — midríase ou miose).
+
+> **Figuras — motricidade ocular conjugada; ptose por paralisia do III esquerdo; paralisia do VI esquerdo.** *(imagens a inserir em `figuras/`)*
+
+## Nervo trigêmeo (V) {#nc-trigemeo}
+
+Nervo misto, o maior dos cranianos. Componente sensitivo em três territórios:
+**oftálmico (V1)**, **maxilar (V2)** e **mandibular (V3)**. Corpos celulares no
+gânglio trigeminal (de Gasser). Tato/pressão → núcleo sensitivo principal (ponte);
+dor/temperatura → núcleo espinhal do trigêmeo (o mais longo, estende-se até segmentos
+cervicais). Componente motor (núcleo motor pontino) inerva a musculatura mastigatória.
+
+**Arcos reflexos:** o **córneo-palpebral** (aferência V1, eferência facial); o
+**mandibular** (monossináptico, neurônio aferente no núcleo mesencefálico) — sua
+exacerbação sugere síndrome pseudobulbar.
+
+**Semiotécnica.** Sensibilidade das três divisões; reflexo córneo-palpebral;
+movimentos mastigatórios (palpação de masseteres e temporais; movimentação lateral da
+mandíbula). Na lesão unilateral crônica há desvio da mandíbula para o lado da lesão. A
+**neuralgia do trigêmeo** (*tic douloureux*) cursa com dor facial lancinante; em
+jovens, sugere esclerose múltipla.
+
+## Nervo facial (VII) {#nc-facial}
+
+Sétimo nervo craniano; controla os músculos da expressão facial e o paladar dos 2/3
+anteriores da língua. Trajeto em seis segmentos (intracraniano, meatal, labiríntico,
+timpânico, mastóideo, extratemporal). Ramos: petroso maior (lacrimejamento, via
+gânglio pterigopalatino), corda do tímpano (paladar e salivação) e ramos motores
+(temporal, zigomático, bucal, marginal mandibular, cervical).
+
+**Semiotécnica.** Pesquisa-se a mímica: enrugar a testa (frontal), aproximar os
+supercílios, fechar os olhos (orbicular dos olhos), mostrar os dentes, repuxar a pele
+do pescoço (platisma). Na paralisia, abolem-se os movimentos do lado paralítico, com
+**lagoftalmo** e desvio da boca para o lado são.
+
+::: {.note}
+**Central vs. periférica.** O núcleo do facial que inerva a face superior recebe
+fibras dos dois hemisférios; o que inerva a face inferior, só do córtex contralateral.
+Na paralisia **periférica** (nuclear/infranuclear) há envolvimento de toda a hemiface
+homolateral; na **central** (supranuclear), apenas a porção inferior contralateral.
+:::
+
+Nas paralisias periféricas pode haver hiperacusia, ageusia nos 2/3 anteriores da
+língua, distúrbios de secreção salivar/lacrimal e hipoestesia no pavilhão auricular.
+
+> **Figuras — anatomia segmentar do nervo facial; exame da motricidade facial.** *(imagens a inserir em `figuras/`)* *Fonte: HUB-UnB; adaptado de Parent A.*
+
+## Nervo vestibulococlear (VIII) {#nc-vestibulococlear}
+
+*Alessandra Ramos Venosa · Pedro Renato P. Brandão*
+
+Dividido em porção **coclear** (audição) e **vestibular** (equilíbrio). Emerge no
+**ângulo cerebelopontino**, acompanhado da artéria labiríntica (ramo da AICA).
+
+**Porção coclear.** Células ciliadas do órgão de Corti → gânglio espiral → núcleos
+cocleares (bulbo) → vias bilaterais (corpo trapezoide, oliva superior, lemnisco
+lateral, colículo inferior, corpo geniculado medial) → córtex auditivo. A organização
+bilateral explica por que lesões centrais unilaterais raramente causam surdez completa.
+
+**Porção vestibular.** Canais semicirculares (aceleração rotacional), utrículo e
+sáculo (posição e aceleração linear). Gânglio de Scarpa → núcleos vestibulares →
+tálamo (VPL) e córtex; também núcleos oculomotores (via FLM, RVO) e medula (via
+vestibuloespinhal).
+
+**Exame da audição.** Testes de Weber (diapasão no vértice — lateralização) e de Rinné
+(compara condução aérea e óssea; normal CA > CO = positivo). Na surdez condutiva
+CO > CA; na neurossensorial ambas diminuídas com CA > CO.
+
+> **Figura — testes de Weber e Rinné.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+**Exame vestibular.** Diferenciar vertigem de pré-síncope. A **doença de Ménière**
+(vertigem recorrente + perda auditiva + plenitude/zumbido). A **VPPB** (deslocamento
+de otólitos; manobra de Dix-Hallpike). Pontos do exame: sinal de Romberg e Romberg
+labiríntico; desvios da marcha (lateropulsão, marcha em estrela de Babinski); teste do
+indicador de Bárány; teste de Fukuda; prova calórica. O **exame HINTS** (Head Impulse,
+Nystagmus, Test of Skew) diferencia vertigem central de periférica.
+
+**Nistagmo.** Movimento involuntário com fase lenta e fase rápida. O **periférico** é
+unidirecional, suprimido pela fixação, fatigável; o **central** é vertical/torcional,
+não suprimido pela fixação, sem fatigabilidade. Testes modulatórios: sinal de
+Hennebert, fenômeno de Tullio.
+
+## Nervo glossofaríngeo (IX) {#nc-glossofaringeo}
+
+Emerge da face lateral do bulbo, atravessa o forame jugular. Componentes motor
+(estilofaríngeo), sensitivo (terço posterior da língua, faringe, tonsilas, tuba
+auditiva), gustativo e parassimpático (glândula parótida, via gânglio ótico). Conduz
+aferências dos corpos e seios carotídeos (regulação da pressão arterial).
+
+**Semiotécnica.** Avalia-se principalmente o **reflexo faríngeo** (do vômito); a perda
+unilateral sugere lesão do IX (frequentemente com o X). Paladar do terço posterior
+com soluções (teste menos comum).
+
+> **Figura — avaliação do reflexo faríngeo.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+## Nervo vago (X) {#nc-vago}
+
+Maior abrangência anatômica: conecta o tronco a múltiplos órgãos do pescoço, tórax e
+abdome. Gânglios jugular (superior) e nodoso (inferior). Aferências viscerais ao
+**núcleo do trato solitário (NTS)**; fibras branquimotoras (núcleo ambíguo) para
+faringe e laringe; parassimpáticas (núcleo motor dorsal) para vísceras
+toracoabdominais.
+
+**Semiotécnica.** Mobilidade do palato (dizer "A" sustentado — elevação simétrica do
+véu), reflexo faríngeo e, se necessário, laringoscopia. Lesões unilaterais: desvio da
+úvula para o lado íntegro (**sinal da cortina**), disfagia para líquidos, voz anasalada
+e rouquidão/afonia (nervo laríngeo recorrente).
+
+> **Figura — elevação simétrica do véu palatino, úvula e palato.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+## Nervo acessório (XI) {#nc-acessorio}
+
+Porção espinhal (corno ventral de C2–C5/C6) que inerva o **esternocleidomastoideo
+(ECM)** e o **trapézio**.
+
+**Semiotécnica.** Na paralisia do trapézio: atrofia, abaixamento do ombro e desvio da
+escápula; comprometimento da elevação do ombro. Para o ECM: rotação da cabeça contra
+resistência (na paralisia, incapacidade de rodar para o lado oposto).
+
+> **Fotografia — exame da força do ECM e do trapézio.** *(imagem a inserir em `figuras/`)* *Fonte: HUB-UnB.*
+
+## Nervo hipoglosso (XII) {#nc-hipoglosso}
+
+Nervo motor puro; inerva todos os músculos intrínsecos e extrínsecos da língua (exceto
+o palatoglosso). Núcleo no assoalho do quarto ventrículo; emerge entre pirâmide e oliva;
+sai pelo canal do hipoglosso.
+
+**Semiotécnica.** Inspeção da língua em repouso (atrofia, fasciculações) e na
+protrusão. Na **lesão periférica**, a língua desvia **para o lado lesado** (ação do
+genioglosso contralateral íntegro), com atrofia e fasciculações; na **lesão central**,
+desvio contralateral sem atrofia. Testa-se a força pressionando a língua contra a
+bochecha.
+
+## Referências {-}
+
+- Damodaran O, Rizk E, Rodriguez J, Lee G. Cranial nerve assessment: a concise guide
+  to clinical examination. *Clin Anat.* 2014;27(1):25-30. doi:10.1002/ca.22336
+- López-Elizalde R, Campero A, Sánchez-Delgadillo T, et al. Anatomy of the olfactory
+  nerve. *Clin Anat.* 2018;31(1):109-117. doi:10.1002/ca.23003
+- Nakanishi M, Brandão PRP, Freire GSM, et al. Development and validation of the
+  MultiScent-20 digital odour identification test. *Sci Rep.* 2024;14(1):15059.
+  doi:10.1038/s41598-024-65915-3
+- Selhorst JB, Chen Y. The optic nerve. *Semin Neurol.* 2009;29(1):29-35.
+  doi:10.1055/s-0028-1124020
+- Banc A, Kedar S. Interpretation of the Visual Field in Neuro-Ophthalmic Disorders.
+  *Curr Neurol Neurosci Rep.* 2024;24(3):67-81. doi:10.1007/s11910-024-01332-3
+- Horn AK, Leigh RJ. The anatomy and physiology of the ocular motor system. *Handb
+  Clin Neurol.* 2011;102:21-69. doi:10.1016/B978-0-444-52903-9.00008-X
+- Bathla G, Hegde AN. The trigeminal nerve. *Clin Radiol.* 2013;68(2):203-213.
+  doi:10.1016/j.crad.2012.05.019
+- Monkhouse WS. The anatomy of the facial nerve. *Ear Nose Throat J.* 1990;69(10):677-687.
+- Benoudiba F, Toulgoat F, Sarrazin JL. The vestibulocochlear nerve (VIII). *Diagn
+  Interv Imaging.* 2013;94(10):1043-1050. doi:10.1016/j.diii.2013.08.015
+- García Santos JM, et al. Tracking the glossopharyngeal nerve pathway. *Insights
+  Imaging.* 2018;9(4):559-569. doi:10.1007/s13244-018-0630-5
+- Neuhuber WL, Berthoud HR. Functional anatomy of the vagus system. *Auton Neurosci.*
+  2021;236:102887. doi:10.1016/j.autneu.2021.102887
+- Lloyd S. Accessory nerve: anatomy and surgical identification. *J Laryngol Otol.*
+  2007;121(12):1118-1125. doi:10.1017/S0022215107000461
+- Lin HC, Barkhaus PE. Cranial nerve XII: the hypoglossal nerve. *Semin Neurol.*
+  2009;29(1):45-52. doi:10.1055/s-0028-1124022

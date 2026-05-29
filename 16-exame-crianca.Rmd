@@ -1,0 +1,154 @@
+# Exame neurológico da criança {#exame-crianca}
+
+*Lisiane Seguti Ferreira · Isadora de Oliveira Cavalcante · Jeanne Alves de Souza Mazza*
+
+Apesar dos avanços médicos, a propedêutica inicial — anamnese e exame físico —
+continua sendo a ferramenta diagnóstica mais importante. As estratégias padronizadas
+no adulto são de difícil aplicação na criança, especialmente em neonatos e lactentes,
+em virtude da imaturidade do sistema nervoso. Uma limitação central é que o exame
+reflete o estado neurológico naquele momento, o que ressalta a importância de
+avaliações seriadas. Dividimos o capítulo em três seções: recém-nascido a termo,
+lactente, e pré-escolar/escolar.
+
+::: {.note}
+Em lactentes prematuros, adota-se a **idade corrigida** para 40 semanas. Ex.: um
+lactente de 10 meses cronológicos, nascido com 28 semanas, tem 7 meses de idade
+corrigida.
+:::
+
+## A — Exame do recém-nascido a termo {#rn-termo}
+
+Antes do exame neurológico, revisa-se a história (passado obstétrico, intercorrências,
+Apgar, peso) e realiza-se o exame físico geral. O exame neurológico neonatal,
+frequentemente negligenciado, não deve limitar-se ao nível de alerta, tônus e reflexo
+de Moro.
+
+**Grau de alerta.** É a mais sensível das funções neurológicas. Estados 1–2
+correspondem ao sono (quieto e ativo); estados 3–5 à vigília, avaliados por abertura
+ocular, respiração, movimentação e vocalização.
+
+**Nervos cranianos.** I (resposta a hortelã); II (fecha os olhos à luz forte, segue
+luz de baixa intensidade; disco óptico mais pálido); II/III (contração pupilar à luz a
+partir de 32 semanas); III/IV/VI (acompanha a face no plano horizontal; reflexo dos
+olhos de boneca); V (careteamento ao estímulo, força de sucção); VII (simetria da face
+em repouso e movimento); VIII (susto ou piscar ao som); V/VII/IX/X/XII (sucção e
+deglutição; reflexo do vômito); XI (esternocleidomastoideo); XII (língua).
+
+**Exame motor.** Tônus e postura (RN a termo com tônus flexor em MMSS e MMII);
+mobilidade e força; reflexos tendinosos (clônus aquileu de 5–10 repetições é normal) e
+resposta plantar (usualmente extensora no RN).
+
+**Reflexos primários neonatais.** Moro (queda súbita da cabeça → abdução e "abraço");
+preensão palmar; tônico cervical.
+
+**Sensibilidade.** Resposta de retirada a estímulos em 5 pontos do corpo.
+
+Recomenda-se avaliação sequencial duas semanas após a primeira, como instrumento
+preditivo do prognóstico.
+
+## B — Exame do lactente (28 dias a 2 anos) {#lactente}
+
+Período de rápido crescimento e mudanças no desenvolvimento neuropsicomotor.
+
+**Segmento cefálico.** Avalia-se contato com o meio (marcos sociais — Quadro abaixo);
+formato da calota e perímetro cefálico (macrocefalia > 2 DP; microcefalia < 2 DP);
+fontanelas (posterior fecha ~1 mês; anterior até 18 meses); nervos cranianos.
+
+Table: (#tab:marcos-sociais) Principais marcos sociais e idade de aparecimento.
+
+| Marco | Idade |
+|---|---|
+| Sorriso social | A partir dos 2 meses |
+| Lalação de sons guturais | 3 a 6 meses |
+| Duplicação de sílabas | 9 a 12 meses |
+| Fala ≥ 3 palavras | 12 a 18 meses |
+| Fala ≥ 50 palavras e palavras-frase | 18 a 24 meses |
+| Fala ≥ 200 palavras, frases de duas palavras | A partir dos 24 meses |
+
+**Segmento corporal.** Avaliação dinâmica do tônus (hipertonia fisiológica até o 3º
+mês, substituída por hipotonia fisiológica a partir do 4º mês), manobras de tração e
+suspensão ventral (reflexo de Landau a partir do 4º mês), força (manobras de
+Branco-Lefèvre e rechaço), reflexos miotáticos (vivos no RN, normorreflexos até 2
+anos), reflexos primitivos e posturais, postura e marcha, coordenação/motricidade fina
+e sensibilidade.
+
+Table: (#tab:reflexos-primitivos) Reflexos primitivos e idade de desaparecimento.
+
+| Reflexo | Idade de desaparecimento |
+|---|---|
+| Marcha | Até o 3º mês |
+| Tônico-cervical assimétrico | Até o 3º mês |
+| Moro | 4 a 6 meses |
+| Sucção | Até 7 meses |
+| Preensão palmar | 4 a 6 meses (passa a voluntária) |
+| Preensão plantar | 9 a 12 meses |
+| Cutâneo-plantar | Em extensão até 24 meses |
+
+**Reflexos posturais:** Landau, apoio lateral (a partir de 6 meses) e paraquedas (a
+partir de 9 meses; ausência aos 12 meses é sinal de alerta). **Marcha** sem apoio até
+os 18 meses (tolerável até 24 meses se demais parâmetros normais).
+
+> **Figuras — medida do perímetro cefálico; diâmetros biauricular e anteroposterior; manobra de suspensão ventral; reflexo tônico-cervical assimétrico.** *(imagens a inserir em `figuras/`)*
+
+## C — Exame da criança (pré-escolar 2–6 anos; escolar 7–10 anos) {#crianca-escolar}
+
+Recomenda-se examinar a criança alimentada e descansada, com delicadeza e elementos
+lúdicos (brinquedos, lápis, desenhos). O roteiro deve ser adaptado à cooperação.
+
+**Comportamento e contato com o meio.** Observado já na anamnese (motricidade,
+linguagem, interação, brincadeiras).
+
+**Segmento cefálico.** Perímetro cefálico (normal entre ±2 DP ou percentis 2,5–97,5);
+microcefalia, macrocrania, craniossinostoses.
+
+**Nervos cranianos.** I (a partir de 4–5 anos, aromas familiares); II (campo visual,
+fundoscopia, reflexo de piscamento); III/IV/VI (movimento em "H"; reflexo fotomotor);
+V (sensibilidade facial; reflexos córneo-palpebral, glabelar, orbicular dos lábios,
+mentoniano; força mastigatória); VII (mímica; central poupa a face superior, periférica
+acomete toda a hemiface); VIII (audição, equilíbrio); IX/X ("ah", sinal da cortina,
+reflexo do vômito); XI (trapézio e ECM); XII (língua).
+
+**Coordenação motora.** Índex-nariz (a partir de 4 anos); calcanhar-joelho (após 7
+anos); diadococinesia (após 7 anos); coordenação tronco-membros; sinal do traço.
+
+**Sensibilidade.** Qualitativa até os 5 anos; depois tátil/dolorosa e proprioceptiva
+(diapasão).
+
+**Motricidade.** Tônus, reflexos miotáticos e superficiais (cutâneo-plantar:
+extensão até 24 meses; cutâneo-abdominal), força (escala MRC). O **sinal de Gowers**
+(usar as mãos para "escalar" pelas pernas ao levantar do chão) sugere fraqueza
+muscular proximal.
+
+**Equilíbrio, postura e marcha.** Equilíbrio estático (a partir de 3 anos; apoio
+unipodal); teste de Romberg (a partir de 4 anos); equilíbrio dinâmico (marcha livre,
+no antepé, retropé, tandem — esta após 5–6 anos).
+
+**Estado mental, linguagem e cognição.** Desenvolvimento da linguagem (frases ~2 anos;
+500–1000 palavras aos 3 anos; fala correta aos 5 anos). Para a cognição, recomenda-se
+o **Mini-Exame do Estado Mental para Crianças (MMC)** — versão adaptada de 13 itens,
+pontuação máxima de 37 — e, após os 6 anos, com suspeita de déficit, avaliação
+neuropsicológica completa.
+
+Table: (#tab:mmc-corte) Pontos de corte do MMC para padrões cognitivos normais.
+
+| Idade | Escore cognitivo mínimo |
+|---|:---:|
+| 3 a 5 anos | 24 |
+| 6 a 8 anos | 28 |
+| 9 a 11 anos | 30 |
+| 12 a 14 anos | 35 |
+
+## Referências {-}
+
+- Dubowitz L, Ricci D, Mercuri E. The Dubowitz neurological examination of the
+  full-term newborn. *Ment Retard Dev Disabil Res Rev.* 2005;11(1):52-60.
+  doi:10.1002/mrdd.20048
+- Fenichel GM. Neurological examination of the newborn. *Brain Dev.* 1993;15(6):403-410.
+  doi:10.1016/0387-7604(93)90079-n
+- Mercuri E, Ricci D, Pane M, Baranello G. The neurological examination of the newborn
+  baby. *Early Hum Dev.* 2005;81(12):947-956. doi:10.1016/j.earlhumdev.2005.10.007
+- Salandy S, Rai R, Gutierrez S, et al. Neurological examination of the infant. *Clin
+  Anat.* 2019;32(6):770-777. doi:10.1002/ca.23352
+- Salvador LS, Moura R, Ferreira FO, et al. The Mini-Mental Examination for Children
+  (MMC). *Dement Neuropsychol.* 2019;13(4):427-435. doi:10.1590/1980-57642018dn13-040010
+- Volpe JJ, Inder TE, Darras B, et al. *Volpe's Neurology of the Newborn.* 6th ed; 2017.

@@ -1,0 +1,252 @@
+# Inspeção {#inspecao}
+
+A inspeção consiste na observação sistemática do paciente e no registro das
+anormalidades identificáveis ao exame visual. Eventualmente, a observação pode
+ser complementada pela palpação — como na pesquisa de espessamento de nervos
+periféricos ou de massas — ou pela ausculta, como no caso de malformações
+arteriovenosas, fístulas durais ou tumores de origem vascular, nos quais é
+relevante verificar a presença de sopro ou frêmito.
+
+Recomenda-se seguir uma rotina de inspeção, da qual destacamos os seguintes
+tópicos: atitude, estado de consciência, postura, fácies, dismorfias, movimentos
+involuntários, exame das mãos e dos pés, trofismo e pele.
+
+## Atitude {#atitude}
+
+Define-se **atitude** como a maneira pela qual o paciente se apresenta e interage
+com o ambiente. Uma atitude **ativa** é caracterizada por movimentação livre,
+espontânea e voluntária. Em contraste, uma atitude **passiva** é marcada pela
+imobilidade ou pela manutenção de posturas impostas por força externa ou pela
+própria doença. A observação de uma atitude passiva constitui um sinal de alerta
+que impõe avaliação imediata do nível de consciência, pois frequentemente reflete
+disfunção cerebral significativa. Deve-se ainda reconhecer a **atitude antálgica**,
+na qual o paciente adota posições que minimizam a dor — frequente em
+radiculopatias e neuralgias — e a **atitude indiferente** (*belle indifférence*),
+observada em transtornos funcionais neurológicos (conversivos).
+
+## Estado de consciência {#estado-consciencia}
+
+Diante de um paciente em atitude passiva, impõe-se a avaliação formal do nível de
+consciência. Embora a terminologia descritiva tradicional permaneça útil,
+recomenda-se o uso complementar de escalas padronizadas, notadamente a Escala de
+Coma de Glasgow (ECG). Os termos descritivos clássicos são:
+
+- **Sonolento (letárgico):** o paciente tende a adormecer quando não estimulado,
+  mas pode ser despertado por estímulos verbais ou táteis leves, respondendo de
+  forma coerente, retornando à sonolência quando cessada a estimulação.
+- **Torporoso (estuporoso):** rebaixamento mais acentuado, respondendo apenas a
+  estímulos vigorosos — verbais altos ou dolorosos — de forma incompleta,
+  lentificada ou parcialmente incoerente.
+- **Comatoso:** não demonstra resposta a estímulos verbais e apresenta respostas
+  variáveis a estímulos dolorosos, podendo exibir desde respostas motoras reflexas
+  (decorticação ou descerebração) até ausência completa de resposta. O coma deve
+  ser graduado pela ECG.
+
+::: {.note}
+O **estado confusional agudo** (*delirium*) — flutuação da atenção, desorientação
+e alteração do conteúdo da consciência, com vigília relativamente preservada — é
+distinto do rebaixamento quantitativo do nível de consciência, embora possam
+coexistir. Da mesma forma, o **estado vegetativo** (síndrome de vigília
+arresponsiva) e o **estado de consciência mínima** devem ser diferenciados do coma.
+:::
+
+## Postura {#postura}
+
+Definimos **postura** como a posição em que se apresenta o paciente. Algumas
+posturas frequentes em Neurologia apresentam correlações neuroanatômicas
+topográficas:
+
+**Postura Hemiplégica (Wernicke-Mann).** Padrão postural da hemiparesia espástica
+crônica por lesão do trato corticoespinhal, sequela mais característica dos AVCs no
+território da artéria cerebral média. No membro superior: adução e rotação interna
+do ombro, flexão do cotovelo, pronação do antebraço e flexão do punho e dedos
+(predomínio dos flexores); no membro inferior: extensão do quadril e joelho, com pé
+em flexão plantar e inversão (pé equinovaro). Durante a deambulação, a rigidez
+extensora obriga o paciente a circundar a perna estendida lateralmente — a **marcha
+ceifante**.
+
+**Postura Parkinsoniana.** Flexão generalizada do eixo axial e dos membros —
+denominada **camptocormia** quando a flexão do tronco excede 45°. Resulta da
+combinação de rigidez plástica e bradicinesia por depleção dopaminérgica
+nigroestriatal. Deve-se distinguir da **síndrome de Pisa** (*pleurothotonus*,
+inclinação lateral tônica do tronco) e da **anterocolis** (flexão desproporcional
+da cabeça sobre o tronco).
+
+**Posturas de Decorticação e Descerebração.** Respostas motoras estereotipadas a
+estímulos nociceptivos, indicativas de disfunção cerebral grave. A **decorticação**
+(flexão anormal, M3 na ECG) caracteriza-se por flexão dos membros superiores e
+extensão dos inferiores, atribuída a lesões acima do mesencéfalo com preservação do
+núcleo rubro. A **descerebração** (extensão anormal, M2 na ECG) apresenta extensão
+rígida dos quatro membros, indicando lesão ao nível do mesencéfalo ou ponte
+superior. A progressão de decorticação para descerebração é sinal ominoso,
+frequentemente indicando herniação transtentorial.
+
+**Outras posturas.** A **postura meníngea** caracteriza-se por opistótono e posição
+"em gatilho de fuzil" (*chien de fusil*). O **sinal de Vanzetti** refere-se à
+escoliose antálgica das lombociatalgias por hérnia discal. O **desvio conjugado da
+cabeça e dos olhos** é sinal localizatório: em lesões hemisféricas destrutivas
+agudas o paciente "olha para a lesão"; em lesões irritativas (crise epiléptica), os
+olhos desviam para o lado oposto; em lesões talâmicas/mesencefálicas pode ocorrer
+*wrong-way eyes*. A **postura miopática** caracteriza-se por hiperlordose lombar,
+protrusão do abdome, escápulas aladas e marcha anserina (*waddling gait*).
+
+> **Figura — Postura hemiplégica (membro superior).** *(imagem a inserir em `figuras/`)* Fonte: adaptado de Teasell RW, Viana R. *Textbook of Neural Repair and Rehabilitation*. Cambridge University Press; 2014:601-614.
+
+> **Figura — Postura fletida típica da doença de Parkinson.** *(imagem a inserir em `figuras/`)* A *stooped posture* é marcada pela flexão de quadris, joelhos e coluna, com deslocamento anterior do centro de massa.
+
+## Fácies {#facies}
+
+Chamamos de **fácies** a expressão fisionômica do doente, tradutora do mal que o
+acomete. As mais comuns em Neurologia:
+
+- **Fácies da paralisia facial periférica:** desvio da comissura labial para o lado
+  são, lagoftalmo, apagamento do sulco nasolabial e impossibilidade de enrugar a
+  testa homolateral. A paralisia periférica afeta igualmente os andares superior e
+  inferior; a central (supranuclear) poupa relativamente o andar superior. Quando
+  bilateral (*diplegia facialis*): face inexpressiva, lisa — levanta diagnósticos de
+  Guillain-Barré, sarcoidose, doença de Lyme e síndrome de Möbius.
+- **Fácies de Hutchinson:** observada nas oftalmoplegias com ptose; o paciente
+  reclina a cabeça (*chin-up position*) e contrai o frontal bilateralmente. Vista na
+  miastenia, distrofia oculofaríngea e CPEO (incluindo Kearns-Sayre).
+- **Fácies parkinsoniana (hipomimia):** expressão "em máscara", piscar reduzido
+  (*reptilian stare*), boca entreaberta com sialorreia.
+- **Fácies coréica:** caretas e movimentos faciais involuntários contínuos.
+- **Fácies miopática:** inexpressiva; na distrofia miotônica tipo 1 (Steinert), face
+  "em machadinha", ptose bilateral, calvície frontal e catarata; na DFEU,
+  dificuldade de assobiar e *transverse smile*.
+- **Fácies tetânica:** *risus sardonicus* e trismo, frequentemente o primeiro sinal
+  do tétano generalizado.
+
+> **Figura — Demonstração clínica de paralisia de Bell à esquerda.** *(imagem a inserir em `figuras/`)* (A) fraqueza dos andares superior e inferior; (B) desvio da comissura ao sorrir; (C) elevação da sobrancelha apenas à direita.
+
+> **Figura — Hipomimia na doença de Parkinson.** *(imagem a inserir em `figuras/`)*
+
+## Dismorfias {#dismorfias}
+
+**Dismorfias do crânio:**
+
+- **Macrocefalia:** perímetro cefálico > 2 DP da média. Hidrocefalia é a causa mais
+  frequente na infância; no adulto, acromegalia e doença de Paget.
+- **Microcefalia:** perímetro < 2–3 DP. Resulta de desenvolvimento cerebral anormal
+  ou agressões perinatais (TORCH, Zika, hipóxia-isquemia).
+- **Cranioestenoses (craniossinostoses):** fechamento precoce de suturas (lei de
+  Virchow). Tipos: **escafocefalia** (sagital), **braquicefalia** (coronal
+  bilateral), **plagiocefalia** (unilateral) e **oxicefalia/turricefalia** (múltiplas
+  suturas; ex.: Crouzon). As sindrômicas (Crouzon, Apert, Pfeiffer) frequentemente
+  cursam com hipertensão intracraniana.
+
+**Dismorfias da coluna:** escolioses neuromusculares (ataxia de Friedreich,
+amiotrofias espinhais, distrofias); cifoses (Scheuermann, fraturas osteoporóticas,
+espondilite anquilosante); lordoses compensatórias (miopatias); gibosidades (mal de
+Pott).
+
+**Dismorfias faciais:** lábio leporino e fenda palatina; **atrofia hemifacial
+progressiva de Parry-Romberg** (associada a epilepsia e *esclerodermia en coup de
+sabre*); síndromes de Treacher Collins e de Goldenhar.
+
+## Movimentos involuntários {#movimentos-involuntarios}
+
+- **Coreicos:** contrações breves, aleatórias, irregulares, não estereotipadas, que
+  fluem de um segmento a outro (fenômeno da paracinesia). Etiologias: Huntington,
+  coreia de Sydenham, LES, fármacos, distúrbios metabólicos.
+- **Atetóticos:** movimentos lentos, sinuosos, distais; em geral lesão dos gânglios
+  da base (putâmen). "Coreoatetose" na encefalopatia hipóxico-isquêmica perinatal.
+- **Tremor:** oscilatório, rítmico. Tipos: de **repouso** (Parkinson, 4–6 Hz,
+  *pill-rolling*); **postural** (essencial, 4–12 Hz); de **ação/intencional**
+  (lesões cerebelares); **de Holmes** (rubral, < 4,5 Hz).
+- **Mioclonias:** contrações "em choque" (< 100 ms cortical). Positivas ou negativas
+  (*asterixis*). Geradores corticais, subcorticais, espinhais ou periféricos.
+- **Distonias:** contrações sustentadas/intermitentes, de torção, com co-contração
+  de agonistas e antagonistas. A distonia cervical (torcicolo espasmódico) é a forma
+  focal mais comum no adulto.
+- **Balismo:** movimento de grande amplitude, em arremesso, proximal —
+  **hemibalismo** classicamente por lesão do núcleo subtalâmico contralateral.
+  Etiologias: vascular e estado hiperosmolar hiperglicêmico não cetótico (hipersinal
+  do putâmen em T1).
+- **Mioquimias:** ondulações musculares finas; as faciais associam-se a lesões
+  pontinas (gliomas, EM) ou são benignas; as generalizadas a síndromes de Isaacs e
+  Morvan.
+- **Fasciculações:** contrações de fascículos isolados, correlato de desnervação
+  (ELA), porém benignas são comuns na população geral.
+- **Miorritmias:** rítmicas e lentas (1–4 Hz); a oculomastigatória é virtualmente
+  patognomônica da doença de Whipple (*Tropheryma whipplei*).
+- **Tiques:** estereotipados, precedidos de urgência premonitória e supressíveis.
+  Tiques motores e fônicos múltiplos por > 1 ano configuram a síndrome de Gilles de
+  la Tourette.
+
+## Exame das mãos {#exame-maos}
+
+- **Mão simiesca (de Aran-Duchenne):** atrofia da eminência tenar com perda da
+  oposição do polegar (*main de singe*). Causa mais frequente: lesão do mediano;
+  também em lesões C8-T1, doença do neurônio motor e siringomielia.
+- **Mão em garra (*griffe cubitale*):** lesão do nervo ulnar; hiperextensão das
+  metacarpofalângicas e flexão das interfalângicas do 4º e 5º dedos, sinal de
+  Froment e *paradoxo ulnar*.
+- **Mão caída (*wrist drop*):** lesão do nervo radial ("paralisia do sábado à
+  noite").
+- **Mão em preensão espástica:** lesão crônica do trato corticoespinhal.
+
+> **Figura — Mão de Aran-Duchenne, com atrofia de músculos intrínsecos.** *(imagem a inserir em `figuras/`)* Fonte: adaptado de Longo PW et al. *Arq Neuropsiquiatr.* 1943;1(1).
+
+## Exame dos pés {#exame-pes}
+
+- **Pé cavo (de Soca / de Friedreich):** acentuação do arco plantar, dedos em
+  martelo/garra. Achado cardinal da ataxia de Friedreich e das neuropatias
+  hereditárias sensitivo-motoras (Charcot-Marie-Tooth). Pé cavo bilateral com
+  arreflexia em jovem sugere neuropatia hereditária até prova em contrário.
+- **Pé caído (*foot drop*):** lesão do nervo fibular comum; marcha escarvante.
+- **Pé equino:** flexão plantar fixa; sequela de paralisia cerebral, poliomielite e
+  lesões crônicas do NMS.
+
+> **Figura — Representação anatômica de pé cavo severo e dedos em martelo.** *(imagem a inserir em `figuras/`)*
+
+## Trofismo {#trofismo}
+
+A distinção entre amiotrofia miopática e neurogênica é capital:
+
+Table: (#tab:amiotrofia) Diferenças entre tipos de amiotrofia.
+
+| Característica | Amiotrofia miopática (protopática) | Amiotrofia neurogênica (deuteropática) |
+|---|---|---|
+| Distribuição | Proximal e de cinturas | Distal e segmentar |
+| Padrão | Grupos musculares funcionais | Nervos, raízes ou miótomos |
+| Fasciculações | Ausentes | Frequentes (doença do neurônio motor) |
+| Distúrbios sensitivos | Ausentes | Podem estar presentes (neuropatias) |
+| Reflexos miotáticos | Reduzidos proporcionalmente à fraqueza | Abolidos precocemente |
+| Pseudo-hipertrofia | Pode ocorrer (panturrilhas na Duchenne) | Incomum |
+| ENMG | Padrão miopático | Padrão neurogênico (fibrilações, ondas positivas) |
+
+## Exame da pele {#exame-pele}
+
+A inspeção da pele possui fundamentação embriológica: sistema nervoso e pele
+compartilham origem ectodérmica, daí as **síndromes neurocutâneas (facomatoses)**:
+
+- **Esclerose tuberosa (Bourneville):** angiofibromas faciais, máculas
+  hipomelanóticas (*ash-leaf spots*), placas de *shagreen*, fibromas ungueais
+  (Koenen).
+- **Sturge-Weber:** mancha em vinho do Porto (V1), angiomatose leptomeníngea,
+  epilepsia, glaucoma, calcificações "em trilho de trem".
+- **Neurofibromatose tipo 1 (von Recklinghausen):** manchas café com leite,
+  efélides axilares/inguinais (*Crowe sign*), neurofibromas, nódulos de Lisch.
+
+Outras manifestações: **dermatomiosite** (*rash* heliotrópico, pápulas de Gottron,
+sinal do xale/coldre — exige investigação oncológica); **herpes-zóster** (respeito à
+linha média; sinal de Hutchinson nasociliar; síndrome de Ramsay Hunt);
+parkinsonismo (pele oleosa, dermatite seborreica); **meningococcemia** (púrpura e
+petéquias — emergência).
+
+A **hanseníase** (*Mycobacterium leprae*) é a causa infecciosa mais comum de
+neuropatia no mundo: lesões hipocrômicas/eritematosas com **hipoestesia no interior
+da lesão** (achado cardinal) e espessamento de troncos nervosos (fibular comum,
+ulnar no epitróclea, auricular magno, radial cutâneo). Formas tuberculoide,
+virchowiana (fácies leonina) e neural pura.
+
+## Referências {-}
+
+- Bertini A, Lenti S, Libelli G, et al. When the diagnosis is in the patient's hand
+  and in the neurologist's eye. *Neurol Sci.* 2024;45(10):4669-4677.
+  doi:10.1007/s10072-024-07626-1
+- Campbell WW. *DeJong's the Neurologic Examination.* 7th ed. Wolters Kluwer/
+  Lippincott Williams & Wilkins; 2013.
+- Lim EC, Seet RC. Demystifying neurology: preventing 'neurophobia' among medical
+  students. *Nat Clin Pract Neurol.* 2008;4(8):462-463. doi:10.1038/ncpneuro0849

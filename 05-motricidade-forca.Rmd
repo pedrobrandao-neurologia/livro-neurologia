@@ -1,0 +1,219 @@
+# Motricidade, força e exame dos nervos periféricos {#motricidade-forca}
+
+O exame da motricidade pode ser dividido, por questões de ordem prática, em exame
+da **motricidade ativa** e da **motricidade passiva**. Neste capítulo trataremos
+apenas do exame da motricidade ativa — a avaliação da movimentação voluntária e o
+estudo da força muscular segmentar (paresias e paralisias); a motricidade passiva
+será abordada no capítulo referente ao tônus muscular.
+
+O exame inicia-se pela observação da motricidade espontânea, começando pelos
+movimentos proximais (cinturas escapular e pélvica) e prosseguindo para os distais.
+Em seguida, a força de cada grupo muscular é avaliada por oposição manual graduada.
+Tanto a motricidade espontânea quanto a força devem ser avaliadas comparando-se
+sistematicamente **regiões simétricas**, pois a assimetria é frequentemente mais
+informativa do que o déficit absoluto.
+
+## Membros superiores {#mmss}
+
+**Nervo musculocutâneo (C5, C6).** Flexão do cotovelo (bíceps braquial e braquial
+anterior); para isolar o bíceps, antebraço em supinação.
+
+**Nervo axilar (C5, C6).** Deltoide — abdução do braço entre 15° e 90° (a abdução
+de 0–15° é do supraespinhal). Pesquisar o território sensitivo sobre o deltoide.
+
+**Nervo radial (C5–C8).** Tríceps braquial (C7) — extensão do cotovelo;
+braquiorradial (C5, C6) — flexão com antebraço neutro; extensores do carpo (C6, C7);
+extensor dos dedos (C7, C8); extensor longo do polegar (C7, C8); supinador (C5, C6).
+
+**Nervo mediano (C6–T1).** Pronador redondo (C6, C7); flexor superficial dos dedos
+(manobra de bloqueio); flexor profundo do 2º e 3º dedos (C7, C8); flexor longo do
+polegar (C8, T1); **abdutor curto do polegar** (C8, T1, músculo-chave); oponente do
+polegar.
+
+**Nervo ulnar (C8, T1).** Abdutor do dedo mínimo; **primeiro interósseo dorsal** (C8,
+T1, músculo-chave — atrofia precoce na neuropatia ulnar); interósseos palmares (teste
+do cartão); adutor do polegar (**sinal de Froment**); flexor profundo do 4º e 5º
+dedos.
+
+## Membros inferiores {#mmii}
+
+**Nervo femoral (L2–L4).** Iliopsoas (flexão do quadril); quadríceps femoral
+(extensão do joelho — atrofia precoce do vasto medial).
+
+**Nervo obturador (L2–L4).** Adutores da coxa.
+
+**Nervo glúteo superior (L4, L5, S1).** Glúteo médio e mínimo (abdução) — fraqueza
+evidenciada pelo **sinal de Trendelenburg**.
+
+**Nervo glúteo inferior (L5, S1, S2).** Glúteo máximo (extensão do quadril).
+
+**Nervo ciático (L4–S3).** Isquiotibiais (flexão do joelho).
+
+**Nervo fibular profundo (L4, L5).** Tibial anterior (dorsiflexão — principal
+componente do "pé caído"); **extensor longo do hálux** (L5, músculo-chave para a raiz
+L5); extensor longo dos dedos.
+
+**Nervo fibular superficial (L5, S1).** Fibulares longo e curto (eversão).
+
+**Nervo tibial (L4–S2).** Gastrocnêmio e sóleo (flexão plantar — teste funcional:
+cinco elevações na ponta de um pé); tibial posterior (inversão em flexão plantar).
+
+> **Fotografias (a inserir em `figuras/`):** avaliação do bíceps; tríceps braquial; deltoide; extensão do punho; abdutor do dedo mínimo; abdução do indicador; flexão da coxa (iliopsoas); extensão/flexão do joelho; flexão plantar; dorsiflexão; inversão/eversão. *Fonte: HUB-UnB.*
+
+## Testes para exame das paresias {#testes-paresias}
+
+### Testes de Mingazzini {#mingazzini}
+
+**Membros superiores (braços estendidos).** Paciente sentado, membros estendidos à
+frente, em supinação, olhos fechados, por 2 a 3 minutos. Na paresia piramidal:
+(1) pronação lenta do antebraço (sinal mais precoce), (2) flexão dos dedos e punho,
+(3) queda gradual. Distinguir da queda por déficit proprioceptivo (movimentos
+pseudoatetósicos) e por fraqueza periférica.
+
+**Membros inferiores.** Decúbito dorsal, membros elevados com flexão de 90° no
+quadril e joelho; o membro parético cai gradualmente.
+
+> **Fotografia — Teste de Mingazzini para membros superiores.** *(imagem a inserir em `figuras/`)* O lado acometido apresenta queda com desvio pronador. *Fonte: HUB-UnB.*
+
+> **Fotografia — Giovanni Mingazzini (1859–1929).** *(imagem a inserir em `figuras/`)*
+
+### Teste de Barré {#barre}
+
+Paciente em decúbito ventral, pernas fletidas a 90° sobre as coxas; o membro
+parético cai progressivamente em extensão. Sensível para a fraqueza piramidal do
+membro inferior, pois testa os flexores do joelho (preferencialmente acometidos).
+
+> **Fotografias — Teste de Barré e Jean Alexandre Barré (1880–1967).** *(imagens a inserir em `figuras/`)*
+
+## Avaliação no paciente comatoso {#hemiplegia-coma}
+
+1. **Resposta aos estímulos nociceptivos:** assimetria entre resposta localizada/de
+   retirada (lado são) e diminuída/patológica (lado hemiplégico).
+2. **Sinal do cachimbo (*signe de la pipe*):** abaulamento da bochecha do lado
+   paralisado a cada expiração.
+3. **Manobra da queda dos membros:** o membro hemiplégico cai mais pesadamente.
+4. **Rotação externa do membro inferior:** por perda do tônus (diagnóstico
+   diferencial com fratura do colo do fêmur).
+
+## Classificação das paralisias {#classificacao-paralisias}
+
+**Paralisias do neurônio motor superior (centrais, piramidais).** Distribuição não
+segmentar (membro ou hemicorpo). **Padrão piramidal de fraqueza:** nos MMSS,
+extensores e supinadores mais acometidos; nos MMII, flexores do quadril/joelho e
+dorsiflexores. Sinais associados: hipertonia espástica ("canivete"), hiperreflexia,
+clônus, sinal de Babinski, abolição dos reflexos cutâneo-abdominais.
+
+**Paralisias do neurônio motor inferior (periféricas).** Distribuição segmentar
+(miótomos, plexos, nervos). Sinais: hipotonia, hiporreflexia/arreflexia, atrofia
+precoce, fasciculações.
+
+**Terminologia topográfica:** monoplegia/monoparesia; hemiplegia/hemiparesia
+(proporcionada — lesão capsular/pontina; desproporcionada — lesão cortical);
+paraplegia/paraparesia; tetraplegia/tetraparesia; diplegia; triplegia.
+
+## Identificação de fraqueza funcional {#fraqueza-funcional}
+
+A terminologia atual é **fraqueza funcional** ou **transtorno neurológico funcional**
+(DSM-5/CID-11). Sinais sugestivos:
+
+- **"Give-away" (colapso súbito):** contração que se interrompe abruptamente.
+- **Ausência de *follow-through*.**
+- **Força paradoxalmente variável.**
+- **Co-contração dos antagonistas.**
+- **Sinal de Hoover:** na fraqueza orgânica, sente-se contrapressão involuntária do
+  calcanhar parético ao solicitar flexão do quadril contralateral; ausente na
+  funcional. Um dos testes mais confiáveis para diferenciar fraqueza orgânica de
+  funcional.
+
+## Tabelas de inervação {#tabelas-inervacao}
+
+Table: (#tab:mmss-inervacao) Principais músculos da extremidade superior, inervação e ação.
+
+| Músculo | Inervação | Ação |
+|---|---|---|
+| Abdutor do dedo mínimo (mão) | Ulnar, ramo profundo (C8, T1) | Abduz o 5º dedo |
+| Abdutor curto do polegar | Mediano, ramo recorrente | Abduz o polegar |
+| Adutor do polegar | Ulnar, ramo profundo | Aduz o polegar |
+| Bíceps braquial | Musculocutâneo (C5, C6) | Flexiona o antebraço, supina |
+| Braquial | Musculocutâneo (C5, C6) | Flexiona o antebraço |
+| Braquiorradial | Radial | Flexiona o cotovelo |
+| Deltoide | Axilar (C5, C6) | Abdução; flexão/extensão do braço |
+| Interósseo dorsal (mão) | Ulnar, ramo profundo | Abduz os dedos 2–4 |
+| Interósseos palmares | Ulnar, ramo profundo | Aduz os dedos 2, 4 e 5 |
+| Extensor radial do carpo | Radial | Estende e abduz o punho |
+| Extensor dos dedos | Radial, ramo profundo | Estende os dedos 2–5 |
+| Extensor longo do polegar | Radial, ramo profundo | Estende o polegar (interfalângica) |
+| Flexor radial do carpo | Mediano | Flexiona e abduz o punho |
+| Flexor ulnar do carpo | Ulnar | Flexiona e aduz o punho |
+| Flexor profundo dos dedos | Mediano (2º–3º) e ulnar (4º–5º) | Flexiona as falanges distais |
+| Flexor superficial dos dedos | Mediano | Flexiona os dedos 2–5 |
+| Oponente do polegar | Mediano, ramo recorrente | Opõe o polegar |
+| Pronador redondo | Mediano | Prona o antebraço |
+| Serrátil anterior | Torácico longo (C5–C7) | Protrai a escápula |
+| Supinador | Radial profundo | Supina o antebraço |
+| Supraespinhoso | Supraescapular (C5, C6) | Abduz o braço |
+| Tríceps braquial | Radial | Estende o antebraço |
+
+Table: (#tab:mmii-inervacao) Principais músculos dos membros inferiores, inervação e ação.
+
+| Músculo | Inervação | Ação |
+|---|---|---|
+| Adutor longo/curto | Obturatório (divisão anterior) | Aduz, flexiona e roda medialmente o fêmur |
+| Adutor magno | Obturatório e tibial | Aduz e estende o fêmur |
+| Bíceps femoral | Tibial (cabeça longa); fibular comum (curta) | Estende a coxa, flexiona a perna |
+| Extensor longo dos dedos | Fibular profundo | Estende os dedos 2–5; auxilia dorsiflexão |
+| Extensor longo do hálux | Fibular profundo | Estende o hálux; auxilia dorsiflexão |
+| Fibular curto/longo | Fibular superficial | Flexão plantar e eversão do pé |
+| Flexor longo dos dedos | Tibial | Flexiona os dedos 2–5; flexão plantar |
+| Gastrocnêmio | Tibial | Flexão plantar; flexão da perna |
+| Glúteo máximo | Glúteo inferior | Estende e roda lateralmente a coxa |
+| Glúteo médio/mínimo | Glúteo superior | Abduz e roda medialmente a coxa |
+| Ilíaco / Psoas (ilíopsoas) | Femoral; ramos L2–L4 | Flexiona a coxa |
+| Quadríceps femoral | Femoral | Estende o joelho |
+| Sartório | Femoral | Flexiona, abduz e roda lateralmente a coxa |
+| Semimembranoso / Semitendinoso | Tibial | Estende a coxa; flexiona a perna |
+| Sóleo | Tibial | Flexão plantar do pé |
+| Tibial anterior | Fibular profundo | Dorsiflexiona e inverte o pé |
+| Tibial posterior | Tibial | Flexão plantar e inversão do pé |
+
+## Gradação da força muscular {#gradacao-forca}
+
+A graduação segue a escala do **Medical Research Council (MRC)**, proposta em 1943:
+
+Table: (#tab:mrc) Escala de gradação da força muscular do Medical Research Council (MRC).
+
+| Nível | Descrição |
+|:---:|---|
+| 0 | Nenhuma contração visível ou palpável |
+| 1 | Esboço de contração, sem movimento articular |
+| 2 | Movimento ativo com amplitude completa, eliminada a gravidade |
+| 3 | Movimento ativo contra a gravidade, sem vencer resistência |
+| 4 | Movimento ativo contra gravidade e contra alguma resistência |
+| 5 | Força normal |
+
+::: {.note}
+A faixa entre os graus 4 e 5 é ampla e é a principal fonte de variabilidade
+interobservador; muitos autores subdividem o grau 4 em 4−, 4 e 4+ (subdivisão que
+não faz parte da escala original).
+:::
+
+**Escore somatório na Síndrome de Guillain-Barré (SGB).** Testagem bilateral de seis
+grupos (abdução do ombro, flexão do cotovelo, extensão do punho, flexão do quadril,
+extensão do joelho, dorsiflexão), totalizando 12 medidas e escore de 0 a 60. Escore
+≤ 48 sugere fraqueza significativa; < 36 indica fraqueza grave.
+
+## Referências {-}
+
+- York GK. Motor testing in neurology: an historical overview. *Semin Neurol.*
+  2002;22(4):367-374. doi:10.1055/s-2002-36758
+- Saguil A. Evaluation of the patient with muscle weakness. *Am Fam Physician.*
+  2005;71(7):1327-1336.
+- Larson ST, Wilbur J. Muscle Weakness in Adults: Evaluation and Differential
+  Diagnosis. *Am Fam Physician.* 2020;101(2):95-108.
+- Dimberg EL. The office evaluation of weakness. *Semin Neurol.* 2011;31(1):115-130.
+  doi:10.1055/s-0031-1271307
+- O'Brien M. *Aids to the Examination of the Peripheral Nervous System.* 5th ed.
+  Saunders; 2010.
+- Kleyweg RP, van der Meché FG, Schmitz PI. Interobserver agreement in the
+  assessment of muscle strength and functional abilities in Guillain-Barré syndrome.
+  *Muscle Nerve.* 1991;14(11):1103-1109. doi:10.1002/mus.880141111
