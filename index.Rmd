@@ -1,0 +1,32 @@
+---
+title: "Semiologia Neurológica"
+subtitle: "Manual colaborativo da Faculdade de Medicina · UnB"
+author: "Departamento de Neurologia — FM/UnB"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [references.bib]
+csl: vancouver.csl
+link-citations: true
+github-repo: SEU-USUARIO/livro-semiologia
+description: "Manual colaborativo de semiologia neurológica da Universidade de Brasília, mantido em texto Markdown e publicado continuamente via Git."
+---
+
+# Apresentação {-}
+
+Este é um **livro colaborativo de acesso aberto**. Cada capítulo é um arquivo
+Markdown editável; qualquer autor autorizado pode propor uma atualização e, ao
+ser integrada ao repositório, ela é **publicada automaticamente** na web, em PDF
+e em EPUB.
+
+O conteúdo organiza-se em torno de duas perguntas da propedêutica neurológica:
+*onde está a lesão* (diagnóstico topográfico) e *qual é a sua natureza*
+(diagnóstico etiológico).
+
+::: {.note}
+**Como contribuir.** Veja o arquivo `README.md` do repositório. Em resumo:
+edite o `.Rmd` do capítulo, cite com `[@chave]`, faça referências cruzadas com
+`\@ref(id)` e abra um *pull request*. O restante é automático.
+:::
+
+> Licença: Creative Commons BY-NC 4.0 · Tipografia Spectral & Source Sans 3.

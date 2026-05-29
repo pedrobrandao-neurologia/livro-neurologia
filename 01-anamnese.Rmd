@@ -1,0 +1,41 @@
+# Anamnese e roteiro do exame {#anamnese}
+
+O exame neurológico é uma extensão raciocinada da anamnese: cada manobra
+responde a uma hipótese topográfica gerada pela história clínica.
+
+## Objetivos do exame {#objetivos}
+
+A semiologia neurológica organiza-se em torno de duas perguntas sequenciais:
+**onde está a lesão** (diagnóstico topográfico) e **qual é a sua natureza**
+(diagnóstico etiológico). A história clínica define o perfil temporal — agudo,
+subagudo, crônico ou recidivante — e orienta o exame dirigido [@campbell2020].
+
+::: {.note}
+**Pontos-chave**
+
+- O perfil temporal é o principal preditor da etiologia.
+- O exame neurológico é teste de hipóteses, não um *checklist* cego.
+- Localize antes de nomear a doença.
+:::
+
+## Roteiro sistematizado {#roteiro}
+
+Recomenda-se uma sequência fixa para reduzir omissões: estado mental, pares
+cranianos, sistema motor, reflexos, sensibilidade, coordenação e marcha. A ordem
+pode ser adaptada à queixa principal.
+
+Table: (#tab:dominios) Domínios do exame e correlato anatômico.
+
+| Domínio          | Estrutura avaliada      | Exemplo de achado        |
+|------------------|-------------------------|--------------------------|
+| Estado mental    | Córtex associativo      | Afasia, negligência      |
+| Pares cranianos  | Tronco encefálico       | Diplopia, disfagia       |
+| Motor            | Via piramidal / NMI     | Paresia, fasciculações   |
+| Coordenação      | Cerebelo                | Dismetria, ataxia        |
+
+::: {.warn}
+**Sinais de alarme.** Cefaleia em trovoada, déficit focal súbito, rebaixamento
+do nível de consciência e febre com rigidez de nuca exigem investigação imediata.
+:::
+
+O detalhamento do exame motor é apresentado no Capítulo \@ref(exame-motor).

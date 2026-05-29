@@ -1,0 +1,58 @@
+/* ====================================================================
+   Semiologia Neurológica · UnB — tema gitbook (identidade clínica teal)
+   Fontes: Spectral (títulos) + Source Sans 3 (corpo)
+   ==================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;600;700&display=swap');
+
+:root{
+  --accent:#0a7d8c; --accent-dark:#075c67; --badge:#eaf3f5;
+  --ink:#1f2429; --rule:#c8ccd1; --redlink:#b32424;
+}
+
+.book .book-body .page-inner section.normal{
+  font-family:"Source Sans 3",system-ui,sans-serif;
+  color:var(--ink); font-size:1.6rem; line-height:1.72;
+}
+/* títulos serifados */
+.book .book-body .page-inner section.normal h1,
+.book .book-body .page-inner section.normal h2,
+.book .book-body .page-inner section.normal h3{
+  font-family:"Spectral",Georgia,serif; font-weight:600; color:#16202a;
+  letter-spacing:-.01em;
+}
+.book .book-body .page-inner section.normal h1{ font-size:2.6rem; }
+.book .book-body .page-inner section.normal h2{
+  font-size:1.9rem; border-bottom:1px solid var(--rule); padding-bottom:.25em; }
+.book .book-body .page-inner section.normal h3{ font-size:1.5rem; }
+
+/* links e sumário lateral */
+.book .book-summary{ font-family:"Source Sans 3",sans-serif; }
+.book .book-summary ul.summary li.active>a{ color:var(--accent-dark); font-weight:600; }
+.book .book-body .page-inner section.normal a{ color:var(--accent-dark); }
+.book-summary .toc-logo a{ color:#fff !important; }
+
+/* caixas didáticas (fenced divs ::: {.note} / ::: {.warn} / ::: {.pearl}) */
+.note,.warn,.pearl{
+  border-left:4px solid var(--accent); background:var(--badge);
+  border-radius:0 6px 6px 0; padding:.9em 1.2em; margin:1.4em 0;
+}
+.note>:first-child,.warn>:first-child,.pearl>:first-child{ margin-top:0; }
+.note>:last-child,.warn>:last-child,.pearl>:last-child{ margin-bottom:0; }
+.warn{ border-left-color:var(--redlink); background:#fbecea; }
+.pearl{ border-left-color:#0f7d72; background:#e6f4f2; }
+
+/* tabelas */
+.book .book-body table{ border-collapse:collapse; }
+.book .book-body table th{
+  background:var(--accent); color:#fff; font-weight:700;
+  text-transform:uppercase; font-size:.82em; letter-spacing:.03em; }
+.book .book-body table th,.book .book-body table td{
+  border:1px solid #e0e3e6; padding:.5em .8em; }
+.book .book-body table tr:nth-child(even){ background:#f6f7f9; }
+
+/* legendas de figura/tabela */
+.book .book-body p.caption,.book .book-body caption{
+  color:#54595d; font-size:.95em; }
+
+/* citações [@...] e lista de referências */
+#refs{ font-size:.95em; }

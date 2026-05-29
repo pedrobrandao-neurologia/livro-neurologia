@@ -1,0 +1,13 @@
+# Exame dos pares cranianos {#pares-cranianos}
+
+Os **pares cranianos** mapeiam funções do tronco encefálico. Este capítulo é um
+esqueleto: expanda cada nervo como uma seção própria, seguindo o modelo dos
+capítulos anteriores.
+
+## I–II · Olfato e visão {#olfato-visao}
+
+*Conteúdo a desenvolver.*
+
+## III–IV–VI · Oculomotricidade {#oculomotores}
+
+*Conteúdo a desenvolver.*

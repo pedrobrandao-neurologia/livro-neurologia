@@ -1,0 +1,26 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: section
+  config:
+    toc:
+      collapse: subsection
+      before: |
+        <li class="toc-logo"><a href="./"><strong>Semiologia Neurológica · UnB</strong></a></li>
+    edit: https://github.com/SEU-USUARIO/livro-semiologia/edit/main/%s
+    history: https://github.com/SEU-USUARIO/livro-semiologia/commits/main/%s
+    download: ["pdf", "epub"]
+    sharing:
+      github: true
+      facebook: false
+      twitter: false
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: default
+  keep_tex: false
+bookdown::epub_book: default

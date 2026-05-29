@@ -1,0 +1,7 @@
+Package: livroSemiologiaUnB
+Title: Semiologia Neurologica - Manual Colaborativo (FM/UnB)
+Version: 0.1.0
+Imports:
+    bookdown,
+    rmarkdown
+Encoding: UTF-8
