@@ -5,14 +5,20 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# Permissões exigidas pelo deploy nativo do GitHub Pages
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Garante um único deploy concorrente, sem cancelar um deploy em andamento
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,6 +31,9 @@ jobs:
       - name: Setup Pandoc
         uses: r-lib/actions/setup-pandoc@v2
 
+      - name: Setup TinyTeX (LaTeX para o PDF)
+        uses: r-lib/actions/setup-tinytex@v2
+
       - name: Cache R packages
         uses: actions/cache@v4
         with:
@@ -33,15 +42,25 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages(c("bookdown", "rmarkdown"))
+          install.packages(c("bookdown", "rmarkdown", "tinytex"))
         shell: Rscript {0}
 
       - name: Render book (HTML + PDF + EPUB)
         run: bookdown::render_book("index.Rmd", output_format = "all")
         shell: Rscript {0}
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_book
+          path: ./_book
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -11,7 +11,8 @@ language:
 rmd_files:
   - index.Rmd
   - 01-anamnese.Rmd
-  - 02-exame-motor.Rmd
-  - 03-reflexos.Rmd
-  - 04-pares-cranianos.Rmd
+  - 02-raciocinio-diagnostico.Rmd
+  - 03-exame-motor.Rmd
+  - 04-reflexos.Rmd
+  - 05-pares-cranianos.Rmd
   - 99-referencias.Rmd
